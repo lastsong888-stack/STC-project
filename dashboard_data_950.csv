@@ -1,0 +1,951 @@
+﻿reviewId,content_clean,score,llm_pred,topic,month
+49bcd8f0-87ba-4fee-8e1d-2291c80b2367,يسعدني خدمتكم,5,Positive,Other / Unclassified,2026-09
+faa5a75a-54af-4fb9-98ad-47bc20615d14,ok,5,Neutral,Other / Unclassified,2026-09
+b7bba6c2-5bd5-4657-9a77-c2b76511cc7d,تطبيق فاشل ومعقد وسارقين مني مبلغ,1,Negative,Financial Complaints & Fees,2026-09
+c326823d-6ef3-486d-ade1-f0be7811a8ec,ممتاز وسلس في التعاملات البنكيه,5,Positive,General Positive Sentiment,2026-09
+d933c10c-f3b9-417a-ada1-c267cdc1e0c4,ممتاز,5,Positive,General Positive Sentiment,2026-09
+5a4ba0eb-afc3-45ae-9821-bd6d5d0cc6ed,شكرا STC PAY من,5,Positive,General Positive Sentiment,2026-09
+fc069c10-61b5-426f-add1-6a372827b55d,تطبيق مفيدجدا,5,Positive,Other / Unclassified,2026-09
+1f9831ae-cf5f-4eb9-b8b9-3e0037750406,مش تمام,1,Negative,Other / Unclassified,2026-09
+4525fb09-3f3e-425c-95b7-05f84c5717d1,الرسوم عاليه وغير منطقيه,1,Negative,Financial Complaints & Fees,2026-09
+d2a54580-e1f6-4a2c-a99e-6bd5648e3c77,حلو,5,Positive,Other / Unclassified,2026-09
+5bb5a506-b2be-4cf2-a749-e7c2cc06d227,كمو,2,Neutral,Other / Unclassified,2026-09
+74113e81-8e52-4e6e-9ad8-77841a364e2f,مايفتح معي الا محولات كثيره,1,Negative,User Experience & Support,2026-09
+45c69f87-2bb9-4d31-85d4-20a4455d33cd,جميل جدا,5,Positive,General Positive Sentiment,2026-09
+e1b7b69b-93bb-4a94-8bce-819c2903e5a7,لا,5,Negative,Other / Unclassified,2026-09
+ed079ace-11c0-4560-88b2-70f815737af2,تطبيق ممتاز شكرا لكم,5,Positive,General Positive Sentiment,2026-09
+f7878de4-fd8b-4914-af43-94b7cffd5f57,جيد,1,Positive,Other / Unclassified,2026-09
+8c971ae1-4708-49f8-a367-f98500593ac8,ممتاز جدا,5,Positive,General Positive Sentiment,2026-09
+9cf9fb9e-43c0-43ab-bf52-5caf7a212469,الانماء باي وهو محفظه رقميه مو بنك خدماته وتصميم وسرعه استجابه العملاء وسرعه التطبيق وعلاوه على ذلك السحب النقدي عن طريق مسح باركود وبدون رسوم، صراحه الانماء باي يقفل ملفات كل البوك والمحافظ الرقميه,1,Positive,Login & Registration Issues,2026-09
+f6a2223b-bda3-48d6-a024-2605d34c7880,كويس,5,Positive,Other / Unclassified,2026-09
+e6c306d9-a215-4007-9493-91f0127a3f58,جديدا,5,Neutral,Other / Unclassified,2026-09
+a3942dd4-3d15-411b-9a9b-c1374647b6ff,التطبيق اسي جدا ولا يوجد افيه طرق استثمار كابنك الراجحي,2,Negative,User Experience & Support,2026-09
+9482cdfa-369f-4b6f-975a-ab3872cf4867,التطبيق لا يفتح ابدا ما اعرف ايش المشكله كان احسن تطبيق سريع حاليا لا يفتح ابدا,1,Negative,User Experience & Support,2026-09
+c948baab-c00f-4440-bf8c-8c5bfad76ace,ليه التطبيق مايشتغل خارج السعوديه طيب انا خرجت بره السعوديه اجازه وعندي التزامات ماديه احولها من التطبيق ليه مايشتغل ؟,3,Negative,Other / Unclassified,2026-09
+379b10f9-09d7-4014-9ee9-5cab0b6f5ec7,التطبيق مو راضي يشتغل يقول حدث حدثت الف مره وحذفته ورجعته ونفس العمليه صاير بايخ,1,Negative,Adding Funds & Limits,2026-09
+56e22beb-70eb-4a86-9ae0-9dbd3bf450dd,في صعوبه بالتحديث,5,Negative,Login & Registration Issues,2026-09
+d2e4e04f-fe10-47cf-9334-48f5c8530289,تجربه جميله جدا,5,Positive,General Positive Sentiment,2026-09
+25132839-0e29-496d-8676-81b337f18f5e,جيد جدا,4,Positive,Other / Unclassified,2026-09
+da9663cf-c6ff-422d-aa17-7719c84a8236,ليس جيد بما فيه الكفايه,1,Negative,User Experience & Support,2026-09
+3823664a-dfff-470f-a703-5444850c561b,تطبيق رائع لكن اليوم جيت افتح التطبيق يقول حدث التطبيق ادخل علشان احدثه ما يطلع لي تحديث ولا فتح التطبيق معي,5,Negative,Login & Registration Issues,2026-09
+b9948c08-b684-4eef-a08d-b90dd454dfb5,تطبيق ممتاز جدا,5,Positive,General Positive Sentiment,2026-09
+b4ec77c2-c12c-4cca-8951-117d2be38b35,لا باس,4,Neutral,Other / Unclassified,2026-09
+777124bb-59c0-43a1-b769-56edb6c35c26,ليش مايفتح يقول حدث والموقع مافيه تحديث,5,Negative,Login & Registration Issues,2026-09
+d846284c-d291-40a0-b086-b7c40f7f0fcb,تطبيق فاشل اسحب دراهمك منهم واهرب,1,Negative,Other / Unclassified,2026-09
+96192612-afb8-4f9c-9599-3db6241c5d67,ولا نجمه للتحديث الخره ده انا كونت كويس ايه خلاني اسجل فى التطبيق ده الراجحي احسن من ده نصيحه لاتحميل ولا زفت اااكتبت نجمه على شان التعليق ينزل,1,Negative,Login & Registration Issues,2026-09
+36635f9d-b268-4fd1-9f2d-c37da95a90c3,تطبيق مره ممتاز,5,Positive,General Positive Sentiment,2026-09
+1c5c72c0-ef47-4051-846b-6baebd31d4d1,راعع,5,Positive,Other / Unclassified,2026-09
+11455548-c9b9-49f3-8058-7564d277f5f6,تت,5,Neutral,Other / Unclassified,2026-09
+d76d4c5c-47c4-43d1-bb82-f68326b67fb1,افضل بنك,5,Positive,General Positive Sentiment,2026-09
+1aa3e73b-d8ea-4b07-a14e-16ad08c56f0d,التطبيق جدا جميل وانصح باستخدامه للجميع,5,Positive,General Positive Sentiment,2026-09
+3976e8af-3c78-447b-a594-67e10d57158f,تطبيق ممتاز,5,Positive,General Positive Sentiment,2026-09
+8b66a4f1-f3ca-492e-8bcf-3bb978c6b765,حلوه,5,Positive,Other / Unclassified,2026-09
+140765d2-3503-4945-a8a0-e7b9a961ea32,تطبيق زفت يقول حدث وادخل مااحصل تحديث واخذف التطبيق واحمله ونفس المشكله هذا حقيقه انه بنك الاطفال,1,Negative,Login & Registration Issues,2026-09
+6c99db44-9345-44ee-92a1-d1e4d954512c,احسن تجربه,5,Positive,Other / Unclassified,2026-09
+7c8150d2-4b7a-48fb-84c6-f8c805db13c3,لماذا لم يفتح معي حسابي يرجى حل المشكله,5,Negative,User Experience & Support,2026-09
+896f791a-c0c9-4c2b-955a-58cf1697963e,ابي ادل حسابي يقلي تحديث حدثته ما رضي,5,Negative,Login & Registration Issues,2026-09
+1b5bd48c-6204-4b3a-8c46-057f6520a593,يطلب تحديث واذا دخلت ابي احدث مافي تحديث جديد نزل وش اسوي انا طيب,1,Negative,Login & Registration Issues,2026-09
+82c428a4-d129-4f11-bd4f-8c9cc92906ac,غير جيد,1,Negative,Other / Unclassified,2026-09
+a132f16f-be28-400f-a5a7-b9e453521a4a,فنان,5,Positive,Other / Unclassified,2026-09
+56d7e5b8-8f66-4c70-ad1d-c896b6ece479,احدثه وهو رافض يتحدث,5,Negative,Adding Funds & Limits,2026-09
+ed3b9359-d0f2-4eda-991c-3ad88e171e00,تمام,5,Positive,Other / Unclassified,2026-09
+5d8cfc93-2e7a-466e-aea9-0f5f4e3ce977,اجمل واحلا تطبيق من السهوله والسرع في الخدمات,5,Positive,Other / Unclassified,2026-09
+5b18dea0-7d99-431b-8105-a02da0e98598,واجهه سهله وخدمات جيده,5,Positive,Other / Unclassified,2026-09
+0da7ee1b-0b03-49ce-8c5f-d4a5c0a57476,منتاز,5,Positive,Other / Unclassified,2026-09
+15c2c509-a445-41f0-b7cd-1ff4c61bd339,ممتازه,5,Positive,General Positive Sentiment,2026-09
+eb6a11a5-48ef-47ca-81da-5febd6328c87,من افضل الحسابات البنكيه,5,Positive,General Positive Sentiment,2026-09
+af437447-ff05-4dcc-b44d-7c65d71898fb,التطبيق بدات تصير فيه مشاكل ادخل التطبيق يقولي احدثه وحدثته ويطلع لي نفس الشي الان ما قدرت ادخل التطبيق,1,Negative,User Experience & Support,2026-09
+1c226def-a1c7-4177-bbc9-37708e618470,التطبيق فيه مشكله بيقول فيه تحديث والتطبيق محدث ولا يفتح,5,Negative,Login & Registration Issues,2026-09
+267694b5-ac4f-4171-80e9-63ffe83d869a,البرنامج لا يفتح,1,Negative,User Experience & Support,2026-09
+bca88056-91cd-4623-812b-66986d0ec356,رافض يفتح يطلب تحديث وفي متجر التطبيقات لا يوجد تحديث متوفر,1,Negative,Login & Registration Issues,2026-09
+ad9ac90b-a2c8-4c80-bc5c-187d1374506b,كلما ابي ادخل التطبيق يقلي حدث وهوه محدث ويش المشكله,2,Negative,Adding Funds & Limits,2026-09
+912dc577-cddd-4796-8f05-5a5242e96285,متاز,5,Positive,Other / Unclassified,2026-09
+8afcd3b2-de4f-4cdc-adab-1c344b3f7095,الحمد الله,5,Neutral,Other / Unclassified,2026-09
+22ae8ca8-1634-49cc-acb4-8b69650b2eeb,تم التحديث ولا زال يطلب التحديث,3,Negative,Login & Registration Issues,2026-09
+65241755-1be7-41bd-b9cc-bbaeaafb0c02,جميل,5,Positive,General Positive Sentiment,2026-09
+ddbf7080-f772-4e8a-a95c-f4b825310f3a,ه,5,Neutral,Other / Unclassified,2026-09
+65c0fe89-b6fc-4404-83ca-e732328141ba,قوه,5,Positive,Other / Unclassified,2026-09
+d4ba680e-1715-4f99-b358-116ede9c50d5,كانت تجربه ممتازه,1,Positive,General Positive Sentiment,2026-09
+6b301431-e39a-416d-a115-9f5772c7d6af,روعه,5,Positive,Other / Unclassified,2026-09
+74385df4-1ecb-4c42-865d-e8940278a5e7,٠ مشكله,5,Positive,Other / Unclassified,2026-09
+42bec23b-fb66-46ff-b43e-2d9a5ce59431,ممتازجدا ورائع,5,Positive,General Positive Sentiment,2026-09
+c0a8fe32-f499-448d-abd6-0846d4709efb,للاسف يعلق يعطيني احدث حدثت مايفتح جربت ٣٠ مره معلق,2,Negative,User Experience & Support,2026-09
+c54043db-3159-4d98-8652-07411371d687,التطبيق لا يفتح عندي ويطلب تحديث مع اني محدث لاخر اصدار,1,Negative,Login & Registration Issues,2026-09
+23499101-bf17-41a4-8b7c-e2f013e7072e,حدثت التطبيق ماعد اشتغل,1,Negative,Adding Funds & Limits,2026-09
+70de7230-01b7-44f0-a336-b133f2bf56e3,ممل,5,Negative,Other / Unclassified,2026-09
+efd01a56-173a-450e-b480-862832116a62,طيبه,5,Positive,Other / Unclassified,2026-09
+9554aa65-7ccb-4fe2-aa80-4649e9f3f995,شكرا cts,5,Positive,General Positive Sentiment,2026-09
+b3668240-f082-4d5f-9966-5e6cb4fd1f52,ليه يعلق,5,Negative,Other / Unclassified,2026-09
+6f5b8346-bcb9-4d3c-8cd7-57c65c4b057e,التطبيق لايفتح يظهر حدث الان ثم اظغط يظهر لي في المتجر فتح وليس تحديث وهاكذا دائما,2,Negative,Login & Registration Issues,2026-09
+632d0cdc-887d-402f-880c-b023df0f41b6,جبده,5,Positive,Other / Unclassified,2026-09
+b312178d-ccb2-4ef2-a4d9-070bade3f822,جيده,3,Positive,Other / Unclassified,2026-09
+0d16ad20-8c69-4d50-ab90-1250bcff4b56,تحديثاته تحتاج تسجيل جديد,1,Negative,Login & Registration Issues,2026-09
+f9395e04-29d7-4d4c-a5ef-7ae2ad6311fc,ممااز,5,Positive,Other / Unclassified,2026-09
+885bbaa0-9723-42fb-96f7-f21f63b6bf42,رائع,5,Positive,General Positive Sentiment,2026-09
+e7a3c61c-05bd-402d-9df5-9988d77e4722,حاليا التطبيق بطلب مني التحديث لاخر نسخه لكن عندما اذهب للتحديث لا اجده,5,Negative,Login & Registration Issues,2026-09
+2e1d9e8b-5e8a-486e-8e96-e67171928b8c,غا,5,Neutral,Other / Unclassified,2026-09
+76de39fd-9040-4f62-ac75-d602e3a13516,ممتاو,3,Positive,Other / Unclassified,2026-09
+92b66a60-5f86-4bbf-aa12-40a29b54d83c,معقد منزل التطبيق ويقول لي حدث ومافي تحديث بالاظافه الى الدخول معقد,1,Negative,Login & Registration Issues,2026-09
+99b9bccb-3ba3-4e51-92cb-64ee714dbb21,good,5,Positive,Other / Unclassified,2026-09
+48a61be9-f779-4abc-9a3f-8386bf02ea0a,يستهل,5,Positive,Other / Unclassified,2026-09
+93d3d9c5-f4de-48ff-8b5a-d9acd926f562,تحديث,5,Neutral,Login & Registration Issues,2026-09
+538d3b0d-bf47-4357-84b1-b6dd17208913,التطبيق مايتحدث,1,Negative,Adding Funds & Limits,2026-09
+d42c996f-9e9b-42f4-9830-00b9cbf6b883,بيعلق وبيقف هو في ايه,1,Negative,Other / Unclassified,2026-09
+85ae5597-776f-441a-b9b3-75aee2c7b7b0,تطبيق اصبح فاشل فاشل,1,Negative,Other / Unclassified,2026-09
+c4f5d9ab-a583-40dd-9ced-f5356d039e11,التطبيق يطلب تحديث ونا قد حدثته,5,Negative,Login & Registration Issues,2026-09
+dec36fdb-a035-47eb-bb42-95257458fd8a,الف شكر,5,Positive,Other / Unclassified,2026-09
+df7e07b5-a862-431b-b9c5-34318206b28e,ممتاز مره,5,Positive,General Positive Sentiment,2026-09
+856128fb-04b0-42c2-97de-dd5e0c49b3a8,معلق,1,Negative,Other / Unclassified,2026-09
+9a41308b-3acf-447b-aa80-c180c5a80779,اكويس,5,Positive,Other / Unclassified,2026-09
+8952d9d1-5157-4402-a19e-40208388308c,بدات مشاكل التحديث وعدم ظهور ايقونه التحديث ؟,3,Negative,Login & Registration Issues,2026-09
+b7df06ae-ff57-4df6-bbef-fc16bda05edd,مو راضي يفتح تحديث,2,Negative,Login & Registration Issues,2026-09
+2945ce81-c9fc-4895-9b49-9bfc5a6fd07d,بنك ممتاز,5,Positive,General Positive Sentiment,2026-09
+eaf141b2-ec10-4d1e-a166-0a8ef3c78fd9,جيد جداا,5,Positive,Other / Unclassified,2026-09
+ced5bc67-bce2-4cba-a692-6b609ad3a815,التطبيق معلق,1,Negative,Other / Unclassified,2026-09
+8d33c5d6-bd41-43e9-9c7b-a9ad48066ed5,سهوله وخدمات متنوعه,5,Positive,Other / Unclassified,2026-09
+11313d0b-a16e-4928-a25d-86e9d250d68a,يفوز,5,Positive,Other / Unclassified,2026-09
+887604b0-b8c5-4d4b-981b-0e7a5d2a0541,السلام عليكم,5,Neutral,Other / Unclassified,2026-09
+8677dc2a-518a-4759-bc40-b479c4fedeb2,توةت,5,Neutral,Other / Unclassified,2026-09
+a5f9937b-dd08-431d-a437-c895d9e0b29a,تجربه ممتازه,5,Positive,General Positive Sentiment,2026-09
+5849feba-1d5b-4c4f-9ae5-610c80cda652,اول كان جميل,5,Negative,General Positive Sentiment,2026-09
+e3b8bfd0-df1f-4815-af06-edfce0edf622,غالي مرره,1,Negative,Other / Unclassified,2026-09
+3afa6163-24c7-452e-bf8e-349cf60b125b,ممتاز جدا شكرا لكم,5,Positive,General Positive Sentiment,2026-09
+938b0d45-75b5-4492-9b9c-b65a6efd9a64,gfgr ffef,5,Neutral,Other / Unclassified,2026-09
+7ea2ba7b-8e2c-48c2-861d-52eb6033e3ad,تحويل مبلغ معين كحد ادنى,2,Neutral,Adding Funds & Limits,2026-09
+c2fc69ec-625f-44db-85e0-fe1a63702a66,STC Bank خدمات ماشاء الله تبارك الله ممتازه,5,Positive,General Positive Sentiment,2026-09
+c32c3b42-d616-469c-b271-9141aab2b621,ممتاز كفو,5,Positive,General Positive Sentiment,2026-09
+34650515-4a4c-4431-97e9-0129b22087b7,الحين وش سالفته هذا التطبيق كلما ادخل عليه صار يوديني على المتصفح صار م يفتح معي وش هالتحديث,1,Negative,Login & Registration Issues,2026-09
+b5186c15-a0ef-4ae3-a144-65bddd10f4c1,افضل حساب وسهل الاستخدام بس ياليت يفتحو الغروض ع اليمنين وشكران,5,Positive,General Positive Sentiment,2026-09
+917b56b2-c0e5-40d4-b44c-a371fdbbcc66,لايمكن,5,Negative,Other / Unclassified,2026-09
+ed4a2018-8bf0-4530-9f92-b966469b4028,التطبيق للاسواء مع كل تحديث,1,Negative,Login & Registration Issues,2026-09
+7ea7ed72-682c-4d2f-98d1-078bbfe32db5,ممتاز وسهل جدا وسريع,5,Positive,General Positive Sentiment,2026-09
+6e9942ab-bc6e-4a5e-9fa2-616c185a59a1,جدا روعه يستاهل ١٠ نجوم والله مو مجامله,5,Positive,Other / Unclassified,2026-09
+c6f99c95-fc53-4a91-a2dd-140918237572,برنامج معلق مره تحاول اكثر من مره تنقل الحساب لا جوال جديد مايرضي,1,Negative,Other / Unclassified,2026-09
+0465fa50-a7be-4b11-9810-805cf5fa6deb,ممتاز جدا وساهل الا ستخدام يضم جميع القنوات الرسميه,5,Positive,General Positive Sentiment,2026-09
+df7f977d-42e0-4ef8-aa27-92590dcd6b82,كويس وممتاز,5,Positive,General Positive Sentiment,2026-09
+98f7eb33-a050-48e7-8756-3223a42948ed,بؤساء,1,Negative,Other / Unclassified,2026-09
+16d30088-f367-4251-9955-af8f82c83b43,كا بالاول يتم اضافه الاموال لاى مبلغ لايقل عن ١٠٠ ريال الان ارتفع حد اضافه الاموال الى ٣٠٠ ريال ممكن تفهمونا سبب ذلك,5,Negative,Adding Funds & Limits,2026-09
+90af6aea-a279-4334-bc67-6aa648cc81b4,نصيحه انتبه تنخدع اغروني بالعرض اذا حولت لك عرض تمويل وبعد ماحولت لهم اقسم بالله رفضو التمويل بحجه جهه العمل غير مدرجه وهم كذابين كانت من ضمن الجهات حسب تطبيقهم لكن همهم يسحبون عملاء فقط الحين مضطر انتظر شهرين حتى احول من عندهم لبنكي السابق,1,Negative,Other / Unclassified,2026-09
+1f183243-443e-429b-bcb2-422285b6b2eb,كانت ممتازه,5,Positive,General Positive Sentiment,2026-09
+0b910777-3699-4aaa-8bb8-9e4039bc0159,يجبر ايداع 300ريال وهذا غلط حركه سيئه,1,Negative,Adding Funds & Limits,2026-09
+4d5e1a6d-38e3-456f-964b-0c466e3291e8,افضل تطبيق تعاملت معه في حياتي,5,Positive,General Positive Sentiment,2026-09
+d7d167ca-b5e1-42b0-91fd-aeb5a2fe6241,اشكر كل من يعمل على هذا التطبيق لما يتمتع به من مصداقيه,5,Positive,Other / Unclassified,2026-09
+e5f84e99-8675-49df-9e71-99c5815ed276,ممتاز وماربح,5,Positive,General Positive Sentiment,2026-09
+ab224bd3-6511-4d77-828f-3cf624e138f6,افضل حساب ه,5,Positive,General Positive Sentiment,2026-09
+b2a299a8-b165-48e0-a73c-e25b954eb0ce,ممتاز بارك الله فيكم,5,Positive,General Positive Sentiment,2026-09
+d26a2fce-4127-4732-b7b4-8d12c9ec8df7,افضل بنك لعام 26 ونشكر القائمين على التطبيق لسهوله الاستخدام,5,Positive,General Positive Sentiment,2026-09
+7475bdb0-ab96-4d66-b98d-51c8dd459941,شكرا من القلب,5,Positive,General Positive Sentiment,2026-09
+0d852ab9-257e-4b0f-b502-16ef422315cf,ممتاز ورائع جدا,5,Positive,General Positive Sentiment,2026-09
+f895f33e-ebc0-49df-a642-1955455e4373,شكرا atc bank,1,Positive,General Positive Sentiment,2026-09
+58adb70b-3f5f-43fe-84dd-c2eeac090279,كويس ميه ميه,5,Positive,Other / Unclassified,2026-09
+355ab310-cfba-4f9f-a5d2-a61b7bebc0b4,ممتاز والله,5,Positive,General Positive Sentiment,2026-09
+c8b7f90b-c1ff-4920-b938-28c0a313c9a5,Nice work,5,Positive,Other / Unclassified,2026-09
+32336e67-9841-431c-a928-4a85e25977da,انشالله انه يبقى على كذا,3,Positive,Other / Unclassified,2026-09
+493eed7d-26d4-47d7-a669-f0013f1c2122,هلا,5,Neutral,Other / Unclassified,2026-09
+43b274c9-d3e2-45af-a4f2-c5d38ffa18b2,جميل جداا,5,Positive,General Positive Sentiment,2026-09
+fc693520-3e55-4c98-a835-867c17d96d53,تعامل سيئ جدا فتحت تذكره ابي اغلق الحساب لن حسابي مجمد للحين شهر ما تم حل المشكله وخدمه العملاء برضو مافي مساعده منهم,1,Negative,Other / Unclassified,2026-09
+beb8a4ac-a3cf-4462-8509-734ad0752e65,ممتاز الله يعطيكم العافيه,5,Positive,General Positive Sentiment,2026-09
+5fdaeb01-7e3e-49df-b01c-41c09d68344f,بنك روعه اتمنا له التطور والثقدم,5,Positive,Other / Unclassified,2026-09
+af3af613-3762-4cc9-a8f6-28e90690bcf7,سيى الرسوم مرتفعه جدا عندما تقوم بتحويل الدولي,1,Negative,Financial Complaints & Fees,2026-09
+a53e45b9-e3cc-42bd-a4c0-d14af6f49188,تطبيق جميل وسريع,5,Positive,General Positive Sentiment,2026-09
+70a1cb2a-7ec6-4d78-9d87-69b92cdc40d7,ممتاز وسريع,5,Positive,General Positive Sentiment,2026-09
+405a2656-289b-4c9e-8151-484831f6ba04,سريع امن,5,Positive,Other / Unclassified,2026-09
+fe72d79d-1bb8-47a5-800a-2ea3f6e1c405,من اوسخ البنوك، يحجزون على بعض فلوسك من غير ماتظهر في كشف والحساب ولا ارسال اشعار لك، يعني زي السرقه صارت معي مرتين وحسب كلام الموظفين انه يمكن بسبب مخالفات مروريه، وكلامهم غير صحيح، تم رفع شكوى للبنك المركزي وتم اغلاق الحساب اللي بيتعامل معاهم يخلي باله ويراجع عملياته الحسابيه اول باول,1,Negative,Other / Unclassified,2026-09
+3d8fbef7-d1e5-484b-80ea-38b39da4f9d4,شكرا,5,Positive,General Positive Sentiment,2026-09
+c9f98a81-91d3-4ede-bfa0-611144be155e,خدمه ممتازه,5,Positive,General Positive Sentiment,2026-09
+cc44975d-b8f6-458c-b792-77f93b4c34d6,جميل وسهل شكرا,5,Positive,General Positive Sentiment,2026-09
+424b6ff0-7321-4f15-a4c8-270d2feba28f,بدا النصب ياخذون رسوم عمليه ما صارت والا في نيمو تم الحذف,1,Negative,Financial Complaints & Fees,2026-09
+ecdc0fa4-1978-4049-b62f-ca7b1fc56bca,Ok,5,Neutral,Other / Unclassified,2026-09
+9f10d3df-b076-4e59-9f53-bc7d01b64c25,شكرا لكم,5,Positive,General Positive Sentiment,2026-09
+070cbca2-30f0-4aab-bc92-df876726a18e,احيانا التحديث بطي جدا فيه مشكله يعلق احيانا كثيره,1,Negative,Login & Registration Issues,2026-09
+7d94d2cf-db50-4b85-b37e-0ffe556d78a0,جيدجدا,5,Positive,Other / Unclassified,2026-09
+23033ea9-f8c6-4b04-a9b6-0160eda0d9e6,تطبيق روعه انصح فيه,5,Positive,User Experience & Support,2026-09
+b37175ed-9014-473e-83b8-7bc999db0b61,ممتاز ومذيد من التقدم,5,Positive,General Positive Sentiment,2026-09
+a4d59b26-ac36-4c18-aced-b42184e490bf,تم,5,Neutral,Other / Unclassified,2026-09
+7544e726-1203-4e55-91a8-13f8e91f7fcc,الحد الادنى للايداع شرط غير مقبلو و مزعج,1,Negative,Adding Funds & Limits,2026-09
+ba2bb371-5dbd-461f-95ac-05b6c68fb277,الله يعطيكم العافيه,5,Positive,User Experience & Support,2026-09
+365fb1b7-2afa-4f4c-b3ae-72e360189892,نتمنا التطور اكثر واكثر واكثر ويوم وطني جميل لكل سعودي فقط,5,Positive,General Positive Sentiment,2026-09
+e26be390-ff90-4b36-b6f4-47e4fbb2892b,باذن الله راح استفيد,5,Positive,Other / Unclassified,2026-09
+e8d23641-ff99-4566-b699-4c68f3cbe96a,سهوله وسرعه وانجاز,5,Positive,Other / Unclassified,2026-09
+9fc98aa9-6412-4c5e-8205-c15598baa62b,لو التحويل بدون رسوم مثل برق يا سلام بس للاسف ياخذ رسوم مثل بقيه البنوك,4,Negative,Financial Complaints & Fees,2026-09
+4cc2bb28-2834-4d11-b904-e6ca23fcd03b,اسهل تطبيق,5,Positive,Other / Unclassified,2026-09
+371e3d8d-9712-4e00-9c22-209a96ff7ad7,v good,5,Positive,Other / Unclassified,2026-09
+5d677412-0bcf-4cce-8b94-63c1b382f074,ممتاز جدا جدا جدا,5,Positive,General Positive Sentiment,2026-09
+50793777-eda2-431d-a4e7-101f1de4e849,برنامج يسهل المور,5,Positive,Other / Unclassified,2026-09
+e8ba2bd5-1851-453a-82f0-e1631c48342a,لا استطيع التحويل من حساب مكسب الى حسابي الاساسي تواصلت مع خدمه العملاء فطلب مني تحديث التطبيق ولكن للاسف لم اجد للتطبيق تحديث ما الحل STC,2,Negative,Login & Registration Issues,2026-09
+c309d2ae-34b7-4423-b514-a64a3aea1740,نجمه لاني اقدم على تمويل يقولون عليك متاخرات وانا م علي شي,1,Negative,Other / Unclassified,2026-09
+2cac651d-850a-40af-8efa-9d2ae2344adb,تم جعل الحد الادنى لاضافه الاموال 300 ريال وهذا شيء سيء جدا ومقيد في الاستخدام الافضل فتح الاضافه لتقبل اي مبلغ مالي,1,Negative,General Positive Sentiment,2026-09
+1c42a3e1-cd11-4e13-9978-40bb6f9367b5,افضل و اسهل بنك,5,Positive,General Positive Sentiment,2026-09
+570fc14d-2d4b-4d58-a778-f7c0fc98a5e2,ممتاز وخدمه احسن من ما يكون,5,Positive,General Positive Sentiment,2026-09
+a1b33f11-f0cd-4efa-a8cf-a16fabe5265d,ولو,5,Neutral,Other / Unclassified,2026-09
+ee6e4dcc-384a-47fb-bb5c-0a48d4177860,ممتاز جدا يستحق المتابعه والتقييم وشكرا,5,Positive,General Positive Sentiment,2026-09
+9fdd0d5e-460e-43e4-9a1e-90823c099e61,حلو جدا,5,Positive,Other / Unclassified,2026-09
+2019c6bd-9ff4-4d7d-900f-03d3f9e4d109,شكراةلكم,5,Positive,General Positive Sentiment,2026-09
+5a821c30-26b2-494a-b246-428bb7ef3263,ليته يسمح بتحويل على طول من غير خيارات مالها داعي وياليت يسمح باضافه اي مبلغ تريده ولو كان ريال,5,Negative,Financial Complaints & Fees,2026-09
+98bfd29d-56fb-4ab2-b0ee-766da20f66f8,ممتاز وتعامل طيب وسريع,5,Positive,General Positive Sentiment,2026-09
+2e28810f-83af-416e-8c39-42af1b4fbde9,برنامج ممتاز وسريع ليا خمس سنوات استخدم تحويل سريع وارجاع في سريع في نفس الوقت,5,Positive,General Positive Sentiment,2026-09
+a6e026cf-756f-443f-a644-2ced840f2483,كفو,5,Positive,Other / Unclassified,2026-09
+ec847b7b-407c-47c0-9802-289c9a60d444,ماشاءالله ممتاز,1,Positive,General Positive Sentiment,2026-09
+1dec0ca4-a8b8-4de2-bfc4-6a6fd00c2b59,اجمل بنك انصح بالتعامل معهم,5,Positive,Other / Unclassified,2026-09
+d14fc46d-608c-4bf8-a587-28b979c0a9ab,فاشله ما تنفع والله فاشله وخاصه المندوبين والخصم اكثر من اللازم,1,Negative,Financial Complaints & Fees,2026-09
+a129cffe-f4f6-4e71-a138-a8eefd66a7b8,Nice,5,Positive,Other / Unclassified,2026-09
+60e266ed-348a-4a2a-9e67-81fbd5b3bdda,ممتاذ جدا,5,Positive,Other / Unclassified,2026-09
+a68143ba-69b3-4411-aa20-4d5a5dff0368,تم نجاح الحمدلله,5,Positive,Other / Unclassified,2026-09
+cae57ef3-75d3-487e-b6af-7df69098f8fb,عمل رائع ومميز جدا,5,Positive,General Positive Sentiment,2026-09
+4bf1b5e6-7659-4db3-bf20-788d7ac08a24,سهل وسريع,5,Positive,Other / Unclassified,2026-09
+33d7e02e-0209-4f8b-b11a-1edfa16201fd,التطبيق ممتاز جدا وسهل بارك الله فيكم,5,Positive,General Positive Sentiment,2026-09
+f4568928-c814-45ac-8fe7-45849809be1b,التطبيق رائع جدا ويؤدي جميع الخدمات,4,Positive,General Positive Sentiment,2026-09
+a9c163da-a19e-4f87-ad9c-f3fa20805824,جميل جدا جدا,5,Positive,General Positive Sentiment,2026-09
+6bf0aaa8-e26a-4cf5-96b0-c170f5d5e369,اسطوره,5,Positive,Other / Unclassified,2026-09
+898b0aea-c7ee-4c78-af03-b34de0248bfa,تطبيق قبيح حرفيا صارلي اشهر اسجل ويقول انتظر بيجي دورك وما يقببذل تحويل مليان اخطاء قفلوه افضل,1,Negative,General Positive Sentiment,2026-09
+a301defa-6e74-44bc-90b1-b692143c0f6e,خدمه مميزه و راقيه,5,Positive,Other / Unclassified,2026-09
+a751f76e-c813-49e0-8e98-759a2714c7b2,المملكه العربيه السعوديه,5,Neutral,Other / Unclassified,2026-09
+544cbaa2-e866-477e-8849-0bbdce6d9042,افضل تطبيق في المملكه العربيه السعوديه كل الحب والتقدير,5,Positive,General Positive Sentiment,2026-09
+c72b2766-c91e-469a-90cc-2b89d41cd11c,خدمه ممتازه بس ماينفتح التطبيق بسهوله ولازم شبكه قويه,5,Negative,General Positive Sentiment,2026-09
+e8dbbcc0-8837-4ca4-9c0a-4bb63a861a35,شكرن لكم,5,Positive,Other / Unclassified,2026-09
+cfaf1b9d-d6e2-40d6-8b62-ea5d62f0a734,جوده,1,Positive,Other / Unclassified,2026-09
+d31e58f5-6775-47b8-85b0-61abb9ae2dc5,ممتاز وامن,5,Positive,General Positive Sentiment,2026-09
+d6a93adf-13b7-4e9a-8595-d8f32e007dd9,بنك STC في الرياده دوما انا فخور بكم,5,Positive,Other / Unclassified,2026-09
+65951d38-8af4-4261-bd8b-1f1197e37660,تطبيق ممتاز وسهل الاستخدام شكرا لكل القائمين على جهودكم المبذوله وبالتوفيق يارب,5,Positive,General Positive Sentiment,2026-09
+d3dde9d3-c141-458c-9e75-ca3a1acfe5e2,توجد صعوبه في التواصل معكم البعض تعرض الى سرقه من حسابه ويتم التواصل معكم ولا من مجيب,1,Negative,Other / Unclassified,2026-09
+9edf65c5-954f-4409-9452-d5092a6bec68,التسويه سحب من حسابك مبالغ وتتعب تتواصل مع خدمه العملاء والعذر تسويه عمليات شراء خارجيه عذر اقبح من فعل,1,Negative,Other / Unclassified,2026-09
+1d77f23a-3a3d-43e0-a79c-644f2699b577,ممتاز جدا جدا,5,Positive,General Positive Sentiment,2026-09
+88830fc0-c2ea-4772-bf3a-fc7c4ed48040,خدمه مميزه وشكرن لكم,5,Positive,Other / Unclassified,2026-09
+27c05e81-4db1-4312-81cc-1b510a7d58b5,فخم ١,5,Positive,Other / Unclassified,2026-09
+efc415bb-f536-4fcd-9c94-f64b3cbb1176,سهل وسلس,5,Positive,Other / Unclassified,2026-09
+feb934fe-c0a4-437d-a4a9-be7f272051d0,الكاش باك قليل,2,Negative,Other / Unclassified,2026-09
+f7dd94a3-3b73-4097-afe9-6ef57b41efa7,في مشكله في الحوالات الدوليه الي اليمن بدايه كان تمام وتتم عمليه التحويل بسرعه الان في مشكله حاوله عدده مرات احول الي اليمن عندما اكد علي الارسال يقول العمليه رقم كذا محضوره بعدا حرف ار انجليزي تواصلت معاهم لم بفيدونا بشي,1,Negative,Login & Registration Issues,2026-09
+b9b2e725-2bc9-478c-948d-b32ce5901b55,تطبيق ولاروع ، جميل جداجداجدا,5,Positive,General Positive Sentiment,2026-09
+e39cb1cf-c349-47a9-932a-166bec5706b0,تطبيق فاشل جدا تم الازاله,1,Negative,Other / Unclassified,2026-09
+cacc4cda-f042-4fb5-b1ba-8995ae45ac9b,اسلام,5,Neutral,Other / Unclassified,2026-09
+6ee431d2-069a-473d-b109-f408cf55c272,رفيقي الذي لا يخذلني بطاقتي الاولى دائما,4,Positive,Other / Unclassified,2026-09
+c32beea8-ef7e-4157-b68d-678d7b194b18,ممتاز جدن افضل بنك في العالم,5,Positive,General Positive Sentiment,2026-09
+d158942b-7c0c-412c-a526-17909ca3805a,يازنوه يومك مزعجني برسايل ازعجتونا كذابين نصابين وصخين الربا يمشي في عروقهم ولاتستحق والا نجمه تستحق جزمه يبن الكلب,1,Negative,Other / Unclassified,2026-09
+dfc409eb-803a-4313-ba2b-93c246bafcdc,ممتاز جدا اكثر من روعه سريع وممتاز,5,Positive,General Positive Sentiment,2026-09
+86079caf-c4e4-42bd-8cfb-4e79c6b96e6b,خدمه اكثر من رائعه,5,Positive,General Positive Sentiment,2026-09
+54be5dce-2f06-4853-8f70-ca6b3876119c,بدايه جيده جدا عند تغيير STC BANK,4,Positive,Other / Unclassified,2026-09
+2424a16f-6610-4046-b4c1-4cc26de301f1,بنك زملائنا الكرام من افضل البنوك بلمملكه,5,Positive,General Positive Sentiment,2026-09
+3ebe3283-aefe-4934-b6e1-997f7be07d39,لاحول ولاقوه الابالله القوي المذل الوارث الاول,3,Neutral,Other / Unclassified,2026-09
+000ddbb2-a405-4391-bd9e-1cb1f4f2345d,راضي,5,Positive,Other / Unclassified,2026-09
+79d46f4b-e11a-4ce8-948b-5799f078553f,تطبيق سيء ما يقبل الا 300 ريال من قبل افضل,1,Negative,General Positive Sentiment,2026-09
+0969048c-36ef-4260-beb0-cf79b98ec91e,تمام تطبيق جميل جدا,5,Positive,General Positive Sentiment,2026-09
+4232c6c0-dd83-4c51-a553-dd1eadd2ea62,اللهم صلي وسلم وبارك على سيدنا ونبينا وحبيبنا محمد,5,Neutral,Other / Unclassified,2026-09
+3b2aec52-1015-4a0c-aa40-52b42c9c2944,خدمات ممتازه وسريعه ومبسطه وسهل الاستخدام,5,Positive,General Positive Sentiment,2026-09
+2584b1b3-db6f-45ed-b9e8-d42eb3bb8574,خساره نجمه واحده فيه سئ جدا ٢٤ ساعه لتحديث جهاز جديد ٢٤ ساعه لفتح نفاذ وغدا شو كمان اختراع للاستفاده من المبالغ الماليه في حساباتنا,1,Negative,Login & Registration Issues,2026-09
+b4ddbfd7-a45a-44c7-b94c-787082abbc56,سهل الاستخدام واجراء المعاملات,5,Positive,Other / Unclassified,2026-09
+25c85b93-556a-4f26-bb8d-168837e6c5f1,جيد جدن,5,Positive,Other / Unclassified,2026-09
+4e954a91-a4a9-42b2-850f-8124ba9648b2,اسواء بنك تعاملت معاه خدمه عملاء يصعب التواصل معهم ولا يمكنهم حل اى مشكله,1,Negative,Other / Unclassified,2026-09
+f6128d82-d1b4-47f0-b985-45be7d7e42e7,مرحبا,5,Neutral,Other / Unclassified,2026-09
+560bd8f1-309c-4884-a5dd-a46250469b30,ESSA شكرا,5,Positive,General Positive Sentiment,2026-09
+ff4edc22-76b7-4d1b-bbe9-0d26dfdf3b4b,لاباس,5,Neutral,Other / Unclassified,2026-09
+627f4daa-cfca-4b25-9e60-e06a0771fcbf,ممتااز,5,Positive,Other / Unclassified,2026-09
+589d3dbd-ec24-48c4-b64d-3f3cc15e8aa2,شكرا ع الخدمه الرائعه,5,Positive,General Positive Sentiment,2026-09
+d37b04a3-2a61-4604-9f94-a66a775a7c07,تطبيق رائع جزاكم الله كل خير وصلوا علي رسول الله,5,Positive,General Positive Sentiment,2026-09
+72dfcee9-5463-48f8-9734-dcc146e48627,سيئ جدا في التحويلات الدوليه، احيانا تعلق الحواله قبل خروجها لمده ٤ ايام,1,Negative,Financial Complaints & Fees,2026-09
+25e5326a-2208-4ba9-b1fc-f76958466e07,اضعف خدمات البنوك الرقميه اس تي سي خدمات عملاء مايقدرون يحلون مشكلتك وانت العميل تتحمل اخطائهم وياخرونك بسبب رفع طلب بطريقه غير صحيحه من عندهم وتطبيق ضعيف,1,Negative,Login & Registration Issues,2026-09
+862599e3-9acd-43c4-82a7-5e408506f6d7,تطبيق سئ جدا افتح تذكر لحل مشكله يغلق التذكر ويقول تم الحل وما تتحل والحواله تجلس 5 او 10 ايام,1,Negative,Financial Complaints & Fees,2026-09
+4d56ca69-3b9d-4a04-9bfa-b5bc91c61f0a,شكرا لكم ماقصرتم حساب جميل,5,Positive,General Positive Sentiment,2026-09
+489b98d4-3f43-41f9-b3e2-325719e1e21b,ولا ابدع من ذالشركه وخدماتها,5,Positive,Other / Unclassified,2026-09
+24f82bb2-ad09-49a9-8825-c32bf38997d6,تقييم 100,5,Positive,Other / Unclassified,2026-09
+b4455aa6-83bf-4863-a5d8-b465c1abfe9b,تطبيق رائع جدا,5,Positive,General Positive Sentiment,2026-09
+77d67b41-0ce7-4a16-853e-ff302da65088,اريد تغير رقم الجوال لرقم اخر ليش م يتغير,1,Negative,Login & Registration Issues,2026-09
+fd1a45a8-0538-4fec-a9f5-ef06d1412516,EXCELLENT,5,Positive,Other / Unclassified,2026-09
+b6caa782-d1ef-4d02-b58c-72678b42d5fc,سهل الاستخدام,5,Positive,Other / Unclassified,2026-09
+54b4282c-06ce-4185-b71e-fd7d23853199,لايعمل,2,Negative,Other / Unclassified,2026-09
+b5819366-939d-48d7-a8d2-f78861ad0ba0,مايبغلكم احسن حاج اما ابعد وين اي الاكان يحاول هدف الي نجاح,5,Neutral,Other / Unclassified,2026-09
+0f79167f-8b5a-41d0-ae1d-19e22e812061,ممتاز عال العال ١٠٠ ١٠٠,5,Positive,General Positive Sentiment,2026-09
+33294837-db63-4cae-aaa2-21291d622ae5,سجلت في تطبيق ووثقت نفاذ ويطلب منى نفاذ مره ثانيه ووثقت وصفحه معلقه على كذا تواصلت ايميل مافي فايده اتصال يقطعون الخط بوجهك تواصلت بمحادثه اكس مافي فايده يقول تواصل برقم الدعم الفني وهم مايردون والله اخس تطبيق واخس نظام,1,Negative,Login & Registration Issues,2026-09
+286bed5b-cf18-41a0-b592-e3225f66a5b1,ليش الرسوم,4,Negative,Financial Complaints & Fees,2026-09
+7a5e7ffd-6a1a-4259-beda-a0c3f78d3a15,شكرا اس تي سي,5,Positive,General Positive Sentiment,2026-09
+821c7552-4a41-48ea-b08b-6a68d59a4d00,ممتاز جدن,5,Positive,General Positive Sentiment,2026-09
+71ea033e-222f-4852-80d2-f8f3a298bf34,جميل وجيد جدا,5,Positive,General Positive Sentiment,2026-09
+b63ead33-e011-47f2-b983-c9ea26f5dac4,هلا والله,5,Neutral,Other / Unclassified,2026-09
+519c00ee-881f-4738-9c86-9ad9af54bf3c,اقسم بالله العظيم اسوء خدمه عملاء فالعالم عندك مشكله مش عارف توصل لهم لا شات ولا فون ولا اي اهتمام حاجه تقرف,1,Negative,Other / Unclassified,2026-09
+938f5aa3-099d-4ca8-ae57-8b605d994180,ضريبه مبالغ فيه,1,Negative,User Experience & Support,2026-09
+d9fd6fee-cf84-4ad0-9707-08bd556cf31c,ممتاز بارك الله فيكم جميعا,5,Positive,General Positive Sentiment,2026-09
+178e8376-ce74-40c5-8b64-7b810e0835c1,سريع في تحويل جيد جدا,5,Positive,Other / Unclassified,2026-09
+6fde6bf1-99f0-4dba-9b73-047493d7bf90,سيء,1,Negative,Financial Complaints & Fees,2026-09
+962098b9-8280-4fa3-8c7a-7f3cdd5d29ee,ينفع,5,Neutral,Other / Unclassified,2026-09
+9d07be56-34ca-458f-9608-01e5aa56c0ad,بنك ممتاز جدا شكرا اس تي سي بنك,5,Positive,General Positive Sentiment,2026-09
+0b4c7f04-71ac-4d94-92ef-ffb98b7e244f,اسهل بتحويل واذا في غلط اسهل للارجاع تطبيق اجتاز التميز,5,Positive,Other / Unclassified,2026-09
+04e4501a-565d-4cf9-b627-a461c596ecc8,اول مره اشوف منتج مالي يبدا من القمه و ينزل الى القاع نجمتين الى ما يوصلوا الى القاع اذا وصلوا نجمه,2,Negative,Other / Unclassified,2026-09
+fd2f8b1b-56c9-487f-8eaf-bfcef942abb5,اقسم بلله يا اخوان الماكينه ما طلعت مبلغ السحب وعندي فيديو ورساله خصم ما رجعولي فلوسي اقسم بلله خلوا بالكم سحب صراف ب Mada 0364 ب 100 SAR في AL RAJ في 24 08 26 18 57 ورفعت مطالبه ولا رجعوها,1,Negative,Financial Complaints & Fees,2026-09
+a82ec1f0-cb45-4b6e-a77e-8b9a81fdceaa,ممناز,5,Positive,Other / Unclassified,2026-09
+166e283c-869f-4a7e-a8a9-a115867381d0,د,1,Neutral,Other / Unclassified,2026-09
+5450d4d8-3b04-499f-a271-e32e2c1991af,ممتازه وسلسه,5,Positive,General Positive Sentiment,2026-09
+67ba51c4-a431-48d3-a22d-c2cbbf336271,ممتاز انصح فيه,5,Positive,General Positive Sentiment,2026-09
+95f64fc3-41d5-4e12-b69c-2718c74d28e9,يجب تفعيل الارسال الى المحافظ النقديه في مصر مثل فودافون كاش,4,Neutral,Other / Unclassified,2026-09
+9c33737f-6e66-49f4-b531-a2d0c1847c72,تم الشراء من حسابي من محتال وعملت بلاغات ولكن البنك يلغي البلاغ,1,Negative,Other / Unclassified,2026-09
+c00df8e8-e563-4068-b737-34d3df855bc1,Cod,5,Neutral,Other / Unclassified,2026-09
+d100eadb-2369-4461-9ac6-2c27c279ccfe,تحديث معلومات الهويه معقد، قد يغلق لمده يومين بشكل عام اقل من تطبيقات البنوك الحقيقيه,3,Negative,Login & Registration Issues,2026-09
+3a6de828-0a2d-453c-9e94-9b983818df3f,تمويلهم وعروضهم كذب لا تصدقون وتحولون الراتب عليهم ه,1,Negative,Other / Unclassified,2026-09
+356ed453-fe27-42b9-9666-ce18f6130718,رايع,5,Positive,Other / Unclassified,2026-09
+a894ace2-e3f4-4792-b80f-9b007cf3d5c6,زفت ياخرالحولات بالله ننتظر من 20 دقيقه علي ايش,1,Negative,Other / Unclassified,2026-09
+1d701963-5fec-4b71-b69a-b8149f682dbc,كويس جدا,5,Positive,Other / Unclassified,2026-09
+4263a96f-2047-4c80-a90f-37004cdff38a,كفو حساب,5,Positive,Other / Unclassified,2026-09
+b0ca757b-0bf7-47ee-a993-c287e259c756,تطبيق سيء اسوي كل شيء عشان اسوي حساب في النهايه يجي يعلق ويعيدلي من الاول,1,Negative,Financial Complaints & Fees,2026-09
+b68ffb0c-9d18-41c8-8469-9d26e699fc49,لا يمكن تعدل الحد اليومي معلق,1,Negative,Adding Funds & Limits,2026-09
+30e5f869-97cc-45f0-8bcd-d1a079d6ffb5,تعديل التقييم من ٥ نجوم الى نجمه فجاه الخدمه غير متوفره هذا بنك يعني مصالح ناس ماينفع توقف الخدمه بدون تنبيه مسبق,1,Negative,Other / Unclassified,2026-09
+1e50d8f9-3400-4950-a4bb-85243ce7d91e,سيء جدا يجب دفع كثير حتى تحول النقود,1,Negative,Financial Complaints & Fees,2026-09
+aed7492f-8ff8-4191-a185-22bf2dc01254,Good,5,Positive,Other / Unclassified,2026-09
+3ef0be90-9bd4-4528-b6c9-3fe32dc90b8d,من اسوا البنوك في حياتي تم فتح الحساب وحولت مبلغ لارسل حواله ماليه دوليه ويتم ايقاف حسابي بعد التحويل وايقاف الحواله بعد فتحه بيوم فقط تخيل عرقلو اهلي وكان محتاجين لظروف علاجيه واتصل يردو ومايخارجونا لطريق كانت تجربه سيئه سببت مشاكل كبيره لي جدا خصوصا امر بمرض والمبلغ لازم احصل عليه حسبي الله ونعم الوكيل الحساب مجمد للحين ومحظور,1,Negative,Financial Complaints & Fees,2026-09
+90985c86-a979-4e17-b48e-2c9559198c5c,تطبيق ممتاز وخدمه سريعا يستاهل,5,Positive,General Positive Sentiment,2026-09
+1b838051-f1e0-45ce-820e-a175dc8a9530,ممتازين وخدمات سهله ورائعه,5,Positive,General Positive Sentiment,2026-09
+5fb117d7-04a5-4494-ae12-726f0f6af80f,ممتاز ممتاز جدا جدا جدا جدا اشكركم جزيل الشكر علي جهودكم الغير منتهيه بصراحه وربي يوفثكم جميعا,5,Positive,General Positive Sentiment,2026-09
+2f4befcb-7d79-4ddf-9930-3b09b0ae5238,افضل بنك وافضل تطبيق,5,Positive,General Positive Sentiment,2026-09
+9628bf4e-45f3-497a-8842-8623dbffa48c,سيئ جدا,1,Negative,Other / Unclassified,2026-09
+fc035f7f-3119-4161-9a97-6c944d9e5819,Excellent service,5,Positive,Other / Unclassified,2026-09
+6105fd5c-bd09-4189-a91a-1dad726dd183,مريح,5,Positive,Other / Unclassified,2026-09
+a3b57427-0871-4335-b383-d6ed49da8b2c,من افضل البنوك كان عندي مشكله في البطاقه محضوره وغيرت الرمز اسري وفتحو الحضر شكرن بنك استيسي,5,Positive,General Positive Sentiment,2026-09
+cf1279c2-367f-4c8d-b32b-766f8d0203dd,تجربه رائعه,5,Positive,General Positive Sentiment,2026-08
+79e39282-6274-4155-b259-a36b40325491,افضل تطبيق بي التحويل دولي بدون رسوم ممتاز حدن,5,Positive,General Positive Sentiment,2026-08
+e82cc132-29fb-443f-a67f-30e2ffc60ddb,والله مايسوا ريال سويت حساب وجابولي البطاقه وفعلتها لما اروح البقاله ازحب شبكه مستحيل يزحب مرفوضه كل الشبكات ليش مااعرف,1,Negative,Financial Complaints & Fees,2026-08
+2a114575-8dbd-4eeb-b12d-0b67890b3ee5,اشكر STC رائع جدا,5,Positive,General Positive Sentiment,2026-08
+559b35c3-d3d9-4309-b694-382c8bf2c6b1,لماذا يتم اعطائنا بطاقه فيزا ويصعب علينا استخدامها بسبب العمولات التي لاذنب لنا فيها,3,Negative,User Experience & Support,2026-08
+2e422df2-9257-4cf6-bbc2-a0b7b35ff53d,حوالات سريعه ومريحه,4,Positive,Other / Unclassified,2026-08
+f30fd741-e086-49de-b432-5f940e336fa4,سهل وجيد,5,Positive,Other / Unclassified,2026-08
+190a4be4-d683-4036-ad46-194b807b98ad,عندي مشكله مو راضي يفتح,3,Negative,User Experience & Support,2026-08
+5d98e567-4ec3-46d7-8f1a-d88bc2c8cb35,ممتاز بارك الله فيك وجزاك الله خير الجزاء,5,Positive,General Positive Sentiment,2026-08
+48a631ad-7f79-4bc6-a34d-1fdd4b6c0666,مافي تساعد من خدمه العملاء,1,Negative,Other / Unclassified,2026-08
+c45010ed-424a-4033-815c-c7991dbb7e57,اول مره اجربها بصراحه تجربه ممتازه تستاهل اكثر من خمسه نجوم,5,Positive,General Positive Sentiment,2026-08
+c18e0de5-fecc-4d8e-b24f-f5fff71ab8e9,ممتاز جدن خدمات كويس,5,Positive,General Positive Sentiment,2026-08
+859973f0-12da-46ea-bf21-de270379ad94,ممتاز جداا,5,Positive,General Positive Sentiment,2026-08
+4a8fcae4-56d0-4922-a5f9-758a0865df68,معقد وصعب,1,Negative,Other / Unclassified,2026-08
+7799fabf-afb4-4b79-92f4-492b42519f3d,الله يسعدكم ويحفظكم ربي العمر كله باذن الله,5,Positive,Other / Unclassified,2026-08
+fdfc1b75-10c8-41ab-8d68-db57db29795a,سئ جدا حولت من عليه حواله محليه لها ثلاث ايام لم تصل واكل الدعم يقول سوف نقوم بحلها خلال 5 ايام عمل ليه كل ده,1,Negative,User Experience & Support,2026-08
+12e94f83-c5f2-4284-8d6c-525820354390,سيء جدا,1,Negative,Financial Complaints & Fees,2026-08
+3407ec5f-3334-42fa-ba0e-317dbee1c5d1,سرعه اجرا العمليات وسهولتها,5,Positive,Other / Unclassified,2026-08
+fbbee454-062e-41fa-84d2-96abd3d6f16d,خدمات سهله وممتازه,5,Positive,General Positive Sentiment,2026-08
+d1dcee75-7ad9-4838-83a9-57f43853fe57,ممتاذ,5,Positive,Other / Unclassified,2026-08
+4524ce4b-e354-4b2d-b140-1d4ffd91809d,التطبيق لا يستجيب لشحن سوا مع اني شريحه جوالي من جوي اس تي سي,1,Negative,Adding Funds & Limits,2026-08
+ce0207c8-b8b8-49b3-88f3-1560b77e2c43,ممتاز بس بس مو راضي تنضاف في مدي اما البطاقات الثانيه عادي انضافت,3,Neutral,General Positive Sentiment,2026-08
+1b9fbe9a-80b5-43a9-9595-7a741007c8c5,كويس صديق,5,Positive,Other / Unclassified,2026-08
+bb9e28ef-f79e-4ad4-82eb-1ff4e3ec8025,لم يفعل التطبيق منذ 3 الشه,1,Negative,Other / Unclassified,2026-08
+6fbb2aaa-e677-4388-a182-0999ae005d7d,الشكر والتقدير والاحترام,5,Positive,Other / Unclassified,2026-08
+1281d581-f81d-4b0c-bee4-185c4755267a,سيء ليه لازم احول ٣٠٠,1,Negative,Adding Funds & Limits,2026-08
+05731692-4c5d-4cae-b5a2-a2488dd281ec,جيده جدا,5,Positive,Other / Unclassified,2026-08
+67a9fca2-e4da-4be6-ac6d-3a68446a0823,قبل تحديث التطبيق رفعت الحد الى 200 الف ولكن بعد التحديث الاخير رجعالحد الى 50 ايش هذا التعامل وتواصلت مع الدعم لم اجد اي حل ارجو حل مشاكل التحديث باسرع مايمكن,1,Negative,Login & Registration Issues,2026-08
+3f509cc7-c042-4dce-84f6-0ac5447fec54,سارقيني 2600صار لها سنتين وكل ما اكلهم يصرفوني حسبي الله ونعم الوكيل عليهم,1,Negative,Other / Unclassified,2026-08
+8e38c581-8ad7-4388-bacf-97233829b1f5,السلام عليكم ورحمه الله وبركاته مساء الخير يا وجيه الخير اجمعين او صباح الخير يا وجيه الخير اجمعين البرنامج جميل وممتاز,5,Positive,General Positive Sentiment,2026-08
+619fee50-29cd-4f64-8818-5a08dafd05f2,والله من يوم اشتركت فيه وانا مرتاحه لما احول لصاحباتي وهم يحولولي بدون ايبان سهل علينا كثير وكمان التحويل الدولي لبلدك سهل وغير مكلف بارك الله فيهم وفي عملهم اذا كانوا يتقون الله فيه,5,Positive,User Experience & Support,2026-08
+29d3141c-2c0a-493b-a13d-5a5342ac8c26,bad,1,Negative,Other / Unclassified,2026-08
+0fc12cb2-cbe9-432b-813d-a621479ec2a2,تطبيق بطل,5,Positive,Other / Unclassified,2026-08
+776dd498-2fc6-4261-a328-93dfdd3feb95,الموضوع متعب ان كل مستفيد جديد لازم اضيفه مفروض يتم تطبيق التحويل السريع مثل باقي البنك ويكون اي شخص عنده اس تي سي بنك معناته تلقائيا مفعل التحويل السريع على رقم الجوال كذا ما يحتاج كل مره نضيف مستفيد جديد ما بنحتاج نضيفه كمستفيد الا اذا بنحول له اكثر من ٢٥٠٠ ريال,1,Negative,Login & Registration Issues,2026-08
+dba5fbf2-aac9-4d34-8fe3-0df8427ce3ef,جييد جدا,5,Positive,Other / Unclassified,2026-08
+085498d6-af3a-4bb8-a307-52d7044494c0,البطاقه الان غير صالحه لماذا وتم تاكيد الرقم السري الجديد ولم تعمل؟,4,Negative,Login & Registration Issues,2026-08
+b1a32325-3f0d-4785-be0b-f3988dfec046,ممتلز,5,Positive,Other / Unclassified,2026-08
+86ebda26-d402-40c5-ad2b-30866500cf72,عندي مشكله ارغب اضافه بطاقه حساب ثاني يظهر الرساله عمليه مرفوضه واش الحل,5,Negative,Other / Unclassified,2026-08
+62014afb-b990-4c4a-9386-b05286626902,هناك دائما مشكله مستمره الخدمه غير متوفره وخاصه عند استلام حواله و المشكله اريد ادخل عشان اوقف البطاقه الفيزا قبل محد يسحب لانوفي فلوس استلمت لاكن لا استطيع الدخول,3,Negative,Login & Registration Issues,2026-08
+c5b1ed5a-ee26-4a42-8a23-da1dd722bf69,اضفت رصيد عن طريق سداد ولم يظهر في الحساب، وتقدمت بشكاوى ولم يتم الرد، منذ شهور كثيره,1,Negative,Other / Unclassified,2026-08
+14c3f85b-038f-4eb3-aafb-dedd82709333,التطبيق لايستحق سيئ جدا تم حظر الحساب وفيه فلوسي ولا اقدر اتصرف فيها,1,Negative,User Experience & Support,2026-08
+5f0f7e58-9164-4842-b363-e74c49f8621a,الاستخدام الامثل لتقنيه الرقميه,5,Positive,Login & Registration Issues,2026-08
+ca406a0c-3735-4f47-b8a6-a132948dcdcb,رائع جدا,5,Positive,General Positive Sentiment,2026-08
+b8bde7b5-3934-4cd8-9de8-adcb97a33c7f,لو امكن ارجاع شحن ١٠٠ ريال بدل ٣٠٠ مناسب لنا اكثر,5,Neutral,Adding Funds & Limits,2026-08
+c55caf9e-aa8f-4892-b3fd-e86a671b560f,تطبيق وحساب مريح وسهل خاصه فيما يخص الحوالات والقطات والعيديات وغيرها,5,Positive,Other / Unclassified,2026-08
+93649595-4744-4ef3-9e12-716dbb3ed0ed,تعديل الحد,1,Neutral,Adding Funds & Limits,2026-08
+f32d5535-6ae7-4d39-ad06-168c39cf5f7b,وضع حد ادنى لاضافه الاموال للحساب غير عملي,3,Negative,Adding Funds & Limits,2026-08
+82ceb7cb-dcdd-4c1e-8ec3-05dc461767b5,زي الزفت غصب تحط 300,1,Negative,Adding Funds & Limits,2026-08
+3d53ed8d-0059-45f1-8a4e-cc9d8c18bafe,روعه فعلا,5,Positive,Other / Unclassified,2026-08
+3e201785-e38a-430e-9cb2-657b72301400,راضي جدا,5,Positive,Other / Unclassified,2026-08
+9b49e0b1-f5d0-4432-b011-98f2c71a9f71,غير متطور ويعلق ويعتبر اختيار رقمي غير عملي,1,Negative,Login & Registration Issues,2026-08
+1bbf9067-8ca8-4624-93ab-20d016ca6e85,السلام عليكم ورحمه الله وبركاته حياكم الله انا عندي مشكله في كلمه المرور ما تفتح ابدا الله يرضى عليك وتحلوا لي المشكله هذه عشان انا بفتح حساب جديد,1,Negative,Other / Unclassified,2026-08
+7a0beea4-feea-4c12-88b9-86e7e8255548,جميل جدا وسهل واحلى معاملات في التحويلات,5,Positive,General Positive Sentiment,2026-08
+f3873b92-3764-4a9a-9236-230ce6cb6953,مميز,5,Positive,Other / Unclassified,2026-08
+ee8caadc-3f42-4e2b-beba-3a60f17145df,سيءو الا يقبل اضافه اموال فقط 300 ريال,1,Negative,Adding Funds & Limits,2026-08
+f63e2b99-b025-4088-ae76-96a5dc46010d,شكراا لخدمتكم المتميزه,5,Positive,General Positive Sentiment,2026-08
+bd671722-0b10-41d3-babb-b2d8978de607,ممتاز وسهل الاستخدام وامان قوى,5,Positive,General Positive Sentiment,2026-08
+846efdb6-c452-4db2-b638-8637705bd838,تحت التجربه,5,Neutral,Other / Unclassified,2026-08
+2d009e2b-c936-4452-9e4d-772a91e50fa4,التطبيق خايس دايم يعلق او تصير فيه مشكله مايدخلك,1,Negative,User Experience & Support,2026-08
+c27da89e-9f8d-4b14-9b75-db8ede6b65d8,لماذا الاصرار للوصول للهاويه والقاع الا يكفي ان التطبيق هزيل ولا يستجيب الا يكفي صعوبه التواصل معكم في كثيرا من الاحيان الا يكفي انه يتم حجب العميل من التواصل معكم اذا كانت لديه اعتراض حقيقي لماذا عندما تخطؤن في الفواتير لا يتم محاسبتكم بينما اذا تاخر العميل عن السداد تقفلون جميع الابواب عليه لكي تستمر المبالغ بالتراكم الي يوم القيامه ماهو سبب الانحدار الواضح في الانترنت المنزلي,1,Negative,Adding Funds & Limits,2026-08
+2e581890-9198-4f63-9999-128444551e60,تطبيق سييء يشتغل بصعوبه للاسف اتمنى حل مشاكل التطبيق,1,Negative,Other / Unclassified,2026-08
+53435e4f-24d7-4972-9840-1a8a38c5c0bc,بطي متعب,1,Negative,Other / Unclassified,2026-08
+0ef844f8-218e-42ce-a7ae-c2470eb25a61,شكر,5,Positive,Other / Unclassified,2026-08
+03f70c62-e8a1-49ec-9f9e-f6b106762276,كيف استلم البطاقه,5,Neutral,Other / Unclassified,2026-08
+c315a408-b64e-4a2d-92af-20701b400176,سيئ,1,Negative,Other / Unclassified,2026-08
+0a2fdeb2-e2b5-4082-8713-16ae6fc62057,ماتقدر تضيف الى 300,1,Negative,Adding Funds & Limits,2026-08
+c47b2edc-0d20-41c6-a7ca-53509f9e73b2,ممتاز التحويل بالرقم,5,Positive,Login & Registration Issues,2026-08
+09b70100-3810-43e6-b940-60650d72d679,سهل استجابه طيبه اشكر المهتمين,5,Positive,Other / Unclassified,2026-08
+883cc39c-2b4f-40cc-bd91-0e12fd4a1cb3,افضل تطبيق,5,Positive,General Positive Sentiment,2026-08
+a89ba650-9499-45fb-bd29-faf23efff809,خدمه سيئه لي ٩ ايام اراجع بالحساب ماعطوني حل كلما ادخل اراسلهم من التطبيق يقول لي بانرفع طلب معي فلوس داخل البنك ماقدرت اسحبه انتضرت مافي اي حل,1,Negative,Other / Unclassified,2026-08
+72989ab7-d12d-4e1c-b621-adc5b067ef62,م شاء الله ربنا ازيدكم من فضله,5,Positive,Other / Unclassified,2026-08
+91534555-dd6f-459b-bd46-c5d94e7233f5,سهوله وامان,5,Positive,Other / Unclassified,2026-08
+12077e80-6598-4146-b12c-5c1ffd15419a,تمتاز جدا,5,Positive,Other / Unclassified,2026-08
+4feee1ce-9f64-4811-9c65-d979de4a6f3e,سرعه التنفيذ,5,Positive,Other / Unclassified,2026-08
+355cef90-8167-451f-970e-8ed974c8c481,نعم,5,Neutral,Other / Unclassified,2026-08
+92c99d72-2636-41ea-8dc5-b9e395703157,زباله محول حواله دوليه لها يومين تتواصل معى الدعم مافي حل وعندي كمان حواله ثانيه ملغيها شايلين رسوم الحواله ومش راضين يرجعوها اول كان من افضل البنوك الان نجمه وكثير ه,1,Negative,General Positive Sentiment,2026-08
+8ba3a32b-6300-467e-b20f-c26beffa8da2,بنك يفهمك,5,Positive,Other / Unclassified,2026-08
+75f09c75-36bf-4f82-8d3b-0a8378d84589,حد اضافه اموال عالي ٣٠٠,1,Positive,Adding Funds & Limits,2026-08
+29ce5ffa-b9a0-4433-a8e2-0e3912c95adc,برنامج ممتاز وخدماته لا يعلى عليها,5,Positive,General Positive Sentiment,2026-08
+003d284f-304f-40c0-aa60-39526f5f8a70,ممتاز انصح به,5,Positive,General Positive Sentiment,2026-08
+59637837-dcbd-429d-adcf-47a3fe9c68ad,ممتاز وسريع شكرا,5,Positive,General Positive Sentiment,2026-08
+cab72aca-5315-4f76-883f-eba17338cc11,بنك نصابين واداره فاشله وفوقها ما عندهم مراكز وتتواصل بالاغبياء حق الدعم حقهم يقلك التواصل بس عن طريق التطبيق او الرقم المباشر بس البنك موجود يجمد فلوس العملاء وينهبها فقط اكثر من سنه والفلوس مجمده رغم انها فلوس ادخار ويجي يقلك جاني بلاغ من بنك محلي تتبع اموال طيب ايش اسم البنك الذي بلغ ما يفيدوك طيب جيبوا لي سبب ما يفيدوك فنصيحه للذي يحب يدخر لايدخر عند الحرميه هذول يشوف له لاونج يدخر فيه افضل من التعب هذا,1,Negative,Login & Registration Issues,2026-08
+94ef403a-2a74-4439-916b-7410e4521217,افضل بنك وافضل كاش باك,5,Positive,General Positive Sentiment,2026-08
+054e2a36-2e67-47fe-91f6-01b6673fa6c2,صار سيء جدا,1,Negative,Financial Complaints & Fees,2026-08
+f4e56725-a393-4488-b1c2-729357b6ea04,رسوم وحد ادنى و,1,Negative,Adding Funds & Limits,2026-08
+32cfc34b-679f-4e27-9f68-fd027f05694b,تطبيق سهل وسلس,5,Positive,Other / Unclassified,2026-08
+c2907d86-59c0-4089-aa29-2f69e6eb0cd7,في كل تحويله يشيلو نص ريال غير الضريبه,1,Negative,Financial Complaints & Fees,2026-08
+afa15df3-0108-43b0-b7a3-9d3af29686df,افضل برنامج لتحويل الاموال بكل سهوله ويسر,5,Positive,General Positive Sentiment,2026-08
+4ed2c00a-4a6f-49cc-9408-3b754f3aa16f,صراحه البنك جبار فيه كل شي من تمويل وخدمات اخرى مميزه,5,Positive,User Experience & Support,2026-08
+ebf64887-9135-4f21-b3aa-0a3c406fe4d5,حد اضافه اموال 300 يجب ازالته هذي محفظه وليش لديكم ايداع,1,Negative,Adding Funds & Limits,2026-08
+8f12ebc1-9933-460f-923f-e31c6c22e904,الحركات الزباله لازم تشحن ب 300 كل شهر ليش سلامات وش دخلكم انتو تحددون كم احط الله يعز برق بس,1,Negative,Adding Funds & Limits,2026-08
+a297d547-0baf-4369-80ff-79454855e5e6,ازعجتونا بالاشعارات,1,Negative,Other / Unclassified,2026-08
+f6caefd2-cbed-48dd-9fca-f54fd047ba02,هناك رسوم على التحويل مع ان كل البنوك الرقميه لا تاخذ رسوم,1,Negative,Login & Registration Issues,2026-08
+a39f3621-0b93-4e33-9aee-d2daaf22b842,من اسوا البنوك مقدرت ادخل على حسابي رغم دخلت من نفاذ على حسب الطلب لكن كل يوم ياخر يوم يطلع خطاء وعندي فلوس فيه ومافي حل حسبي الله عليهم,1,Negative,User Experience & Support,2026-08
+d9f2a0f0-a823-4f3a-9514-8155b4cc94eb,افضل واروع بنك متنوع في كل شي,5,Positive,General Positive Sentiment,2026-08
+2eb6aba2-3d33-40cf-add7-8634ca7d5758,سئ بكل المقاييس لا اري فيه ميزه خصمو فلوس بدون اشعار,1,Negative,User Experience & Support,2026-08
+2a4e26bf-50b2-421d-8315-2478a31b190d,ممتازا,5,Positive,General Positive Sentiment,2026-08
+416357c0-9779-42f1-a6e0-446c10e9536f,شكرن,5,Positive,Other / Unclassified,2026-08
+6a1eeadc-b9da-426b-b882-a6f8273802be,احلا خدمه,5,Positive,Other / Unclassified,2026-08
+f92c9e09-95e5-44f1-a90c-fc52bd690465,مستخدم جديد واحاول اطلب بطاقه بلاستيكيه ولكنه لا يستجيب ما ادري ايش المشكله ارجو المساعده,5,Negative,Other / Unclassified,2026-08
+e7138b70-0301-44c4-bc99-d7d11d3f87b2,رسوم التحويل ما لها داعي المفترض ترغيب الناس استخدام التطبيق اذا انتم زي البنوك ليه نستخدم تطبيقكم,1,Negative,Financial Complaints & Fees,2026-08
+ee31cf7c-325f-467a-8d38-c8d6864d8f0f,حلوه وسهل الاستخدام,5,Positive,Other / Unclassified,2026-08
+af9bfbb6-746a-458b-aab4-7018dc5c60ea,ممتاز الامانه سهل الاستخدام ورائع احب البنك هاذا جدا,5,Positive,General Positive Sentiment,2026-08
+00910110-5f23-4d2e-9cdb-5afa30546bbf,ال اس تي سي بي لا يعلى عليه,5,Positive,Other / Unclassified,2026-08
+187a1bba-73d9-424c-a1b5-c279b7eb76bc,اصبحت البطاقات برسوم الفيزا ومدي,1,Negative,Financial Complaints & Fees,2026-08
+d24f084b-e189-46ba-9384-20b79cbdaa9e,ممتازه الخدمه جيده جدا,5,Positive,General Positive Sentiment,2026-08
+24fb8ed4-e114-4984-b835-cba64f8100ec,ممتاز جدا سهل,4,Positive,General Positive Sentiment,2026-08
+255b4cf8-eec8-4f79-aac7-63f1aeed3c15,جيد جدان,5,Positive,Other / Unclassified,2026-08
+5b21a879-b98f-4625-af5a-d9e54c3d9792,تطبيق زباله بكل ما تحمله الكلمه من معنى قام النظام بحظري ورفض يوثق جهازي,1,Negative,Other / Unclassified,2026-08
+1748b364-e4e7-48a7-b29c-a6d579b5ecf2,رووعه السهوله شكرا لكم,5,Positive,General Positive Sentiment,2026-08
+c5d43ba8-d6c0-4552-a7de-1149d4bced39,التطبيق ممتاز جدا جدا شكرا لكم,5,Positive,General Positive Sentiment,2026-08
+2f4d655c-c326-4e27-8b1d-99bb168f04e6,التطبيق كل ماادخل واكتب الرقم السريع يقول خطا ياريت يتم حل المشكله المشكله كل مادخل يقول خطا وعملت اعاده للرقم السري ونفس المشكله,5,Negative,Login & Registration Issues,2026-08
+e84193cb-8131-4586-93c3-b873f2722f21,ما شاء الله حوالات سريعه بنك يستحق كل الاحترام والتقدير,5,Positive,Other / Unclassified,2026-08
+b79ed2b9-2fcc-417f-9b68-3136fe643cbb,تجربه فاشله,1,Negative,Other / Unclassified,2026-08
+704f8a5c-c082-4a83-b530-81a956bcca6a,روعه يا قلبي يا زينكم ويا حليلكم,5,Positive,Other / Unclassified,2026-08
+08065a09-503d-4fb0-b7b3-0e234f65c641,برنامج ممتاز,5,Positive,General Positive Sentiment,2026-08
+c225370c-639e-4c2a-81c0-fc3cb525bd34,لا شكرا,5,Neutral,General Positive Sentiment,2026-08
+26aea187-c4e5-4629-a535-cb0b553595a4,اختصر لنا الكثير من الوقت والجهد حقا رائع,5,Positive,General Positive Sentiment,2026-08
+32811ece-a148-45c0-abbb-1b7966fbe24f,ممتاز بارك الله فيك,5,Positive,General Positive Sentiment,2026-08
+2c409ea1-a4d4-406f-8888-6ebf4e10e166,مماز,5,Positive,Other / Unclassified,2026-08
+0ed3c4c2-10d4-47d5-8d3d-b75733cf6a88,الافضل على الاطلاق,5,Positive,General Positive Sentiment,2026-08
+98511325-399e-4da7-8307-f91e9337424a,احلا شي اس تي سي بنك,5,Positive,Other / Unclassified,2026-08
+e16fd203-058b-4df8-a945-8581ba689a86,سئ جدا جدا جدا جدا جدا جدا محولين لي مبلغ وكل ما ادخل على التطبيق تطلع لي مشكله جديده,1,Negative,Financial Complaints & Fees,2026-08
+03455f66-5c87-4f15-94a2-23bda0f24fc3,متازه جيد,5,Positive,Other / Unclassified,2026-08
+aa3a2783-bed8-47b0-9ac1-c73dcfbb0173,عندي مشكله طلبت بطاقه ابغا افعلها ادخل علا تفعيل البطاقه يقوم اكتب اخر ٤ ارقام فالبطاقه ابغا اكتب مايطلع الكيبورد الكيبورد شغال بكل التطبيقات وفي اس تي سي بنك برضه الافي هذا النقطه تفعيل البطاقه مايطلع ياريت حد يفيدنا,1,Negative,Adding Funds & Limits,2026-08
+2530168e-6bdc-43c2-97ac-64b2692d3829,ممتاز التطبيق وسهل الاستخدام,5,Positive,General Positive Sentiment,2026-08
+98a9d618-024d-4dfb-84e7-842e81ffde5f,تغلط يعطيك حظر 24 ساعه ليش الراحجي ماسو كذا,1,Negative,Other / Unclassified,2026-08
+592caf54-4819-4e25-915b-9e8ac24b104c,تعامل راقي,5,Positive,Other / Unclassified,2026-08
+7a6cf29e-447f-4a5d-8c0e-81a26b9fd4b6,تطبيق رائع وسهل وامن,5,Positive,General Positive Sentiment,2026-08
+f163771e-eb3b-47fd-8cd6-18f99aa55dc6,تطبيق، ممتاز,5,Positive,General Positive Sentiment,2026-08
+5f578179-1490-418c-9664-f7c5003e9698,اخر تحديث سيئه يحتاج توثيق من ابشر ولمن ادخل ابشر مافي شي,1,Negative,Login & Registration Issues,2026-08
+9f816b38-dd8c-4bab-85c7-842cb51bded8,ممتاز وسهل ومرونه نشكر القائمين عليه,5,Positive,General Positive Sentiment,2026-08
+251f8d0f-c3ef-4c08-b988-c77608d1752a,مش راضى يظهر عندى فى القايمه,5,Negative,Other / Unclassified,2026-08
+9a05e026-6880-4dff-bd7b-7f7b9ed4b335,حساب ادخار سمارت ممتاز ورائع,5,Positive,General Positive Sentiment,2026-08
+1f3a95d8-4ddc-4253-9079-173911bb2df2,شكران,5,Positive,General Positive Sentiment,2026-08
+273e7db6-9330-4a6f-8676-cd64b2f8cc3c,ممتاز وفعال,5,Positive,General Positive Sentiment,2026-08
+19a7d298-057b-4464-84b7-07dc1cffa91f,تطبيق زين وروعه,5,Positive,Other / Unclassified,2026-08
+ccd2e4c0-73e4-43d2-9cbd-3567cb029d90,سريع جدا،، وسهل في التعامل,5,Positive,Other / Unclassified,2026-08
+77443a9a-b6f0-421a-b523-63aed2d364ca,سهل اتحويل,1,Positive,Other / Unclassified,2026-08
+1a9e371a-cd66-4685-a182-bb8ceda5808a,امكانيات رائعه و اتمنى لهم الاستمراريه للافضل والتوفيق,4,Positive,General Positive Sentiment,2026-08
+6db99550-b9da-4d5e-afd1-25240e29e385,ابداع فى التحويل الداخلى والخارج المملكه العربيه السعوديه,4,Positive,Other / Unclassified,2026-08
+b7817f9b-f1e0-4180-8d5a-37509833bbc4,احلا تطبيق في العالم,5,Positive,Other / Unclassified,2026-08
+9e7ba55c-b768-4e1e-9d55-05d19c36aa53,لسهوله للتعامل,5,Positive,Other / Unclassified,2026-08
+fc369353-adcb-449e-b910-66f63d4aea69,ان شاء الله تكون تجربه ممتازه انتظر استلام البطاقه من ثم اقيم التجربه,5,Neutral,General Positive Sentiment,2026-08
+b7c09e08-b67b-4442-878d-dfcf7888c98a,ممتاز بس احيان التطبيق مايفتح معي,5,Positive,General Positive Sentiment,2026-08
+8f4064f7-6007-47c8-9027-719f8246fa90,تبارك الله,5,Positive,Other / Unclassified,2026-08
+6221218c-ffe3-436e-b241-82343205d9fa,لو فيه اكثر من 5 ستار كان عطيته كلام كبير,5,Positive,User Experience & Support,2026-08
+1c620d69-2406-435f-b1e6-fcc31df9a49d,جميل وسهل,5,Positive,General Positive Sentiment,2026-08
+4426961b-724d-468f-bcb0-a926708d585d,برنامج الحد الادني ٥٠٠ ريال عشان اي مش عارف ليه تخليني احط ٥٠٠ ريال عشان ارسل ١٠٠ ريال او ٢٠٠ ريال طيب انا مش عندي ٥٠٠ ريال ايش اسوي اتمني يكون في بديل عشان البرنامج هذا بقا مقرف جدا ومش عارفين نسوي اشغالني عليه,1,Negative,Adding Funds & Limits,2026-08
+05982dfe-c596-47be-af3c-c19958da7eca,بنك رائع وخدمات متميزه وسريعه,5,Positive,General Positive Sentiment,2026-08
+6d1b8b2c-d5d4-4301-bb3c-f8c43430983c,شكرا للتعامل الرائع والخدمات السريعه,5,Positive,General Positive Sentiment,2026-08
+43fab58a-5eda-4ff1-9d7d-301d21d82204,سيء جدا ومعقد,1,Negative,Financial Complaints & Fees,2026-08
+7c78309e-915c-426f-b471-0186b7ee0404,احاول اسجل دخول مايقبل و متعطله حسبي الله ونعم الوكيل,1,Negative,Login & Registration Issues,2026-08
+f2b97e82-e139-4a67-aa4f-90bde6c49c2b,نسيت كلمه السر حاولت اغيرها وطلب مني انتظر اتصال وماوصلني اتصال لي ساعه,1,Negative,Login & Registration Issues,2026-08
+69a64634-267d-4473-b319-daba6650d84c,مفيد جدا جدا ممتاز ورائع جدا، انصحكم فــي تحميل اشكر شركه اس تي سي STC,5,Positive,General Positive Sentiment,2026-08
+d0176208-d2e2-4da6-b8eb-d0ddf05277ab,سئ,1,Negative,Other / Unclassified,2026-08
+44eea26e-73e8-4c9b-8329-901e10546b1c,تجربه جميله,5,Positive,General Positive Sentiment,2026-08
+bf96f5aa-1ef2-43e4-826b-ab7972fbb966,حاليا جيد بالتحويل,2,Positive,Other / Unclassified,2026-08
+268d52f9-3d29-4dd6-a3a2-5185409acfa3,احلا بنك,5,Positive,Other / Unclassified,2026-08
+c73aebdd-6a09-439d-85bb-94669c60326b,سويت كل شي يحولني على ابشر اسوي موافقه اروح للتطبيق ماتصدر موافقه,1,Negative,Other / Unclassified,2026-08
+3f696278-f5d9-4385-a68b-67bb4e46210d,ممتاز وسهل التعامل,5,Positive,General Positive Sentiment,2026-08
+8a418e88-8bd2-4323-9656-8330a8b41a10,ممتاز شكرا,5,Positive,General Positive Sentiment,2026-08
+77ecc4cb-56d2-4eb1-9054-d5284b2d1533,جدا جدا جدا جدا جدا جدا جدا,5,Neutral,Other / Unclassified,2026-08
+02dd5f78-6f28-4f1c-933b-dbebdeb9edbe,برنامج رائع وفيه سهوله كبيره جدا,5,Positive,General Positive Sentiment,2026-08
+980ffc77-78ab-4a03-8841-836203cafc3c,تطبيق ممتاز بس في معي مشكله صار لها اكثر من نص شهر وما نحلت وخدمت العملاء ٩٠ بلميه مايفيدوك ولا يتفاهمو معاك ويتقارح ويقول لك بنحلها بئقرب وقت تسئله ايش السبب مايردو نرجو من خدمت العملا التفاهم معا العميل وتقديم افضل خدمه,1,Negative,General Positive Sentiment,2026-08
+93e06da1-1670-442e-8cf2-e258ad62d270,تجربه جميله شكرا STC,5,Positive,General Positive Sentiment,2026-08
+41369635-dd65-41d1-9e70-619fd1579d41,ممتازه جدا جدا جدا,5,Positive,General Positive Sentiment,2026-08
+e67e1ac5-04d2-4eeb-8eed-26f3905f5601,التحويلات الدوليه تتاخر جدا وكذلك شحن عن طريق بطاقه الصرف لايقبل الا بمبلغ محدد كان في السابق التطبيق منافس لاكن تدنى مستواه جدا,1,Negative,Adding Funds & Limits,2026-08
+ba1f3c25-aafb-49e1-ab36-8a398dfd9dc4,برنامج مخترق مافيه اي امان لفلوسك,1,Negative,User Experience & Support,2026-08
+11b35d9b-3a84-4c2a-8743-3755ec1c9b02,ممتاز وفوق التوقعات,5,Positive,General Positive Sentiment,2026-08
+d869aa18-a0be-426d-bb98-cfa7a2dbd05f,بنك سهل الخدمات,5,Positive,Other / Unclassified,2026-08
+d4c6e239-73bb-4288-a694-40a67b3b501a,التحديثات الاخيره لازم اقل شي اضافه 300 اول كان ممتاز,1,Negative,Login & Registration Issues,2026-08
+0491238e-da9a-46c2-be55-bad742ea4286,افضل واسرع بنك في المملكه شكرا stc bank,5,Positive,General Positive Sentiment,2026-08
+c7c301c0-9187-4799-9246-2c8aa1f1af29,لا استطيع تسجيل الدخول التطبيق يظهر لي فقط خيارات انشاء حساب ولا يتيح خيار لتسجيل الدخول,1,Negative,Login & Registration Issues,2026-08
+bf5aac04-8604-4779-83d3-1ad1cbfc89d3,دايم عندهم مشكله متعمده منهم اما يخلون عمرك اكبر في رفعك طلب قرض وبعدها يعتذرون لك بانها مشكله في التطبيق وخدمه العملاء راح تسلك لك نفس الموضوع خلل في ومشكله شهرين عندهم مشكله ماحلوها لي,1,Negative,Other / Unclassified,2026-08
+6aa194ce-0b76-41e7-b2a4-2a4190e1f4f3,بطي جدا نامل تحسين المستوى سبحان الله وبحمده سبحان الله العظيم,3,Negative,Other / Unclassified,2026-08
+2ffecca4-1701-45dd-9f5d-4e1901edc2ec,البنك هذا ممتاز جدا,5,Positive,General Positive Sentiment,2026-08
+45fdf461-6baf-476c-8404-591be70fe177,بدون تحويل راتب النسبه جدا عاليه,4,Negative,Other / Unclassified,2026-08
+775392ab-312d-4428-97c6-6ee1ec775e61,شكرا لكم جميعا,5,Positive,General Positive Sentiment,2026-08
+090d2961-1394-412d-b25c-b70fbe76762d,جميل شديد,5,Positive,General Positive Sentiment,2026-08
+1a432654-83e0-4f75-8123-bf94be6c0c29,شكرا STC,5,Positive,General Positive Sentiment,2026-08
+4195247b-5343-4838-9e83-5042fb0fc7ee,سريع بس المشكله الوحيده اذا انتهت هويتك م يمهلك ولا ساعه,5,Negative,Other / Unclassified,2026-08
+231dffff-9843-4d49-9479-4a5a031f743d,للئسف عندنا حساب وما نقدر نسحب او نحول بسبب المشاكل التقنيه في التطبيق تجربه سيئه,1,Negative,Other / Unclassified,2026-08
+def416db-ae88-4a8e-93b8-b5df1bf06468,ممتاز جدا وسهل الاستخدام وامن تماما,5,Positive,General Positive Sentiment,2026-08
+53891fc9-f10e-4b98-bb8c-6c266ae2ef8c,اصعب شي,1,Negative,Other / Unclassified,2026-08
+e90af2a3-8dab-49d6-b675-c1147c6100a1,اسوا بنك,1,Negative,Other / Unclassified,2026-08
+40041670-cad4-48cd-9c84-0f00892b2dd1,اس تي سي مميزون في كل شيء,5,Positive,Other / Unclassified,2026-08
+d83f7687-26e2-4938-a776-92b9bf2472cd,يطلع لي يعتذر التثبيت جيت احدثه رفض ايش المشكله ؟,2,Negative,Adding Funds & Limits,2026-08
+637c8d97-5868-4efc-ae34-d5452fa811e8,سلسل وفعال ومضمون,5,Positive,Other / Unclassified,2026-08
+6d6f79b4-048b-404b-99e8-68fb5b266aac,راييع جميل عظيم,5,Positive,General Positive Sentiment,2026-08
+77d621e5-08fb-4b23-b46b-96f0a3694691,مسحت التطبيق ونزلته مره اخري ولكن صار م يفتح كل م ادخل علي التطبيق يخرج ويدخلني علي المتصفح,1,Negative,User Experience & Support,2026-08
+aae6c42d-505d-4a4f-9be9-e304e98dcf65,ممتز,5,Positive,Other / Unclassified,2026-08
+8b3066cf-6fa9-4b65-8469-48b42bebfc2b,حلو وبسيط,3,Positive,Other / Unclassified,2026-08
+827938b6-2bbb-408e-bc7e-459f9d52d242,مره كويس,5,Positive,Other / Unclassified,2026-08
+ea7c3f7e-2dae-4827-817c-77eca8ce7e07,سالفه الحد الادنى بايخه جدا ومنفره وتجعلني ابحث على محفظه بديله,1,Negative,Adding Funds & Limits,2026-08
+6d6cb375-ae2e-40d5-8f62-62980f8b60a3,جداا,5,Neutral,Other / Unclassified,2026-08
+21181d17-8e65-4b57-874f-35a4c3c572a5,نصيحه لمن يدخل علا هذا البرنامج لاتحويلات سريع جدن يحتاج 5نجوم,5,Positive,Other / Unclassified,2026-08
+dfc1dfe7-b7a1-4ac7-a980-330ec2712964,سي البطاقه لا تعمل في السحب,1,Negative,Other / Unclassified,2026-08
+4ec078e5-cbc2-4772-9d66-a3bd89b2017a,ممتازه ولكم مني ايضا خمسه نجوم,5,Positive,General Positive Sentiment,2026-08
+b3ae4532-9ba0-4a2b-8c4d-491e0b2467a6,اسوا بنك حاجزين فلوسي وشهر كامل ولاحد راضي يتعاون ولايردون عالايميلات وخدمه العملاء يعطيك تذكره وهميه للعميل وبعدها يماطلون فيك لين تزهق بالاخير يقولك التذكره انلغت لعدم ارسال المرفقات انصحكم نصيحه محب لاحد يتعامل معهم اكتشفت انه في بنوك افضل وتعامل ارقى بالتوفيق للجميع,1,Negative,General Positive Sentiment,2026-08
+1add777c-49a1-4400-88eb-7d9dac445ddd,افظل تطبيق سهل الاستخدام وسريع جدا,5,Positive,Other / Unclassified,2026-08
+aa9f5ea1-29c4-4f57-99ee-53f5be674863,شكرا stc خدماتكم رائع جدا,5,Positive,General Positive Sentiment,2026-08
+ed2066d5-2895-4c10-8800-9a17d886d1df,ممتازه جدا,5,Positive,General Positive Sentiment,2026-08
+f9fc58f3-5f92-46e1-a265-198b6602b0c7,احسن تطبيق بنوك,5,Positive,Other / Unclassified,2026-08
+eec59ceb-907b-4fd7-9b97-e76bb84aaf83,اسطوري,5,Positive,Other / Unclassified,2026-08
+0dffda46-6052-4a24-a667-be5d60bf04eb,شكرا اس تي سي مرحبا بك,5,Positive,General Positive Sentiment,2026-08
+da838483-2156-45e7-8fb7-c7c31c0e6b6f,احلا بنك سهوله وامان,5,Positive,Other / Unclassified,2026-08
+6a261b94-976e-4f54-9ea5-6c53d5d11d17,خدمات مميزه وتسهيلت,5,Positive,Other / Unclassified,2026-08
+d83ab120-993e-4e57-8a19-ba4314b2aff8,شكرا ليك,5,Positive,General Positive Sentiment,2026-08
+210b3e32-741d-4a8c-a073-beb254dff90e,افضل تطبيق بصراحه سهل الاستخدام ووممتاز,5,Positive,General Positive Sentiment,2026-08
+445d8240-6eb5-4fde-9308-cedbff7b6e9f,ليش تحديد التحويل,1,Negative,Adding Funds & Limits,2026-08
+dcc0e1d7-5cff-418d-ab64-28b1ffd81201,خمس ايام عشان تفعلي التطبيق ليش خدمه سيئه جدا جدا جدا جدا,1,Negative,Other / Unclassified,2026-08
+0ca3375e-56a0-4099-974a-6d55ff975a4f,ممتاز وسهل الاستخدام,5,Positive,General Positive Sentiment,2026-08
+5dbd8fd0-bb9d-40ae-b81b-a5bb467a0cd7,ما اقدر اسوي حساب جيت على خيار معلومات العميل ابي اكمل معلومات يقولي حط العمله والخيار مقفل با ريال وش اسوي بالضبط,1,Negative,Financial Complaints & Fees,2026-08
+1edb2987-5c40-4f91-9420-3e3ef5ec3aa8,فاشل ولايعمل وكل مره يطلب مني اعاده تسجيل وايقاف الخدمه لوخلوه بدون تحديث وفلسفه كان افضل الان اسبوع ماقدر افتح حسابي سيء جدا,1,Negative,Login & Registration Issues,2026-08
+87631dff-c10f-4be7-8d77-59f1a9f1c76a,جميل و مرن,5,Positive,General Positive Sentiment,2026-08
+b04c4efd-b58f-43f7-af60-cf74454fba59,بنك اس تي سي فنان وسهل ومرن,5,Positive,Other / Unclassified,2026-08
+8ace2ef6-ea09-4e3d-945b-9eca3bf21a69,البب,5,Neutral,Other / Unclassified,2026-08
+04966006-0c84-49a5-9d41-9e108239518d,سعيد جدا,5,Positive,Other / Unclassified,2026-08
+e7dd4a43-860a-4107-95ab-baa5589a07d9,thank,5,Positive,Other / Unclassified,2026-08
+c92a8e6f-97c2-4dbd-9166-ab17a85a577e,كل تطبيقات STC معقده روحوا شوفو سهوله امازون,1,Negative,Other / Unclassified,2026-08
+472ddb17-a29d-42d8-acf2-03cc62a1c0fa,ياخذ عموله رغم اني احول لحسابي,1,Negative,Other / Unclassified,2026-08
+1a20cdf8-d2cb-433e-9ca2-b96a1c70f891,متازه,5,Positive,Other / Unclassified,2026-08
+e32a1ebd-f2b4-4185-921d-fdc667e8d52b,هلا وغلا,5,Neutral,Other / Unclassified,2026-08
+93dc0b26-17b1-44ff-805c-d21b9e7b0681,من اروع التجارب,5,Positive,Other / Unclassified,2026-08
+64859887-90b7-4dc6-a0b3-74e624dd5ede,ليش الحد الادنى 300 مافي ولا بنك يشترط التحويل كذا,2,Negative,Adding Funds & Limits,2026-08
+d9979a8e-dc55-4c35-aba8-d4167af7ae12,انصح فيه,5,Positive,User Experience & Support,2026-08
+c96f37c3-8a39-4051-ad32-162ba53ba95b,اريد تغيير رقمي في التطبيق لسبب فصل ارقم القديم تواصلت معا خدمه العملاء طلبو مني الخروج من التطبيق والعوده برقم جديد ولاكن عند الدخول برقم جديد يطلع لي فشل في تسجيل الدخول للعلم رقمي مربوط بهويتي وابشر وتم تحديث تطبيق اس تي سي وتحديث نظام الجوال ولاكن كل المحاولات باتت بلفشل ارجو حل المشكله,5,Negative,Login & Registration Issues,2026-08
+9647ca4b-fbb6-4b1a-a596-cb23e105c669,التطبيق ممتاز وسريع بس مشكلته فيه مشكله مع الدخول بالرمز السريع يقول حدث خطا ومن ثم يحظرك من الدخول ل5 دقائق,3,Negative,Login & Registration Issues,2026-08
+aa87194e-67a4-4ee5-aa4f-3e7173393317,حلوو,5,Positive,Other / Unclassified,2026-08
+eb30d174-a402-489d-ba8b-3815c5e49a2a,افضل اختيار,5,Positive,General Positive Sentiment,2026-08
+6cf53c89-48a1-44fe-8ba3-1b8b37acfddc,خدمه ممتازه بكل شيء,5,Positive,General Positive Sentiment,2026-08
+398a9ef4-b94f-4c58-a31c-7644c30b81f6,نزلت التطبيق في جوال ثاني ولا يمكن الدخول يكتب لي فشل الدخول اريد حل للمشكله,4,Negative,Login & Registration Issues,2026-08
+e715e9d2-b05b-49f7-8376-2201dd07b09f,راىع,5,Positive,Other / Unclassified,2026-08
+dadb6aa2-d245-43ea-b97f-e5f161d6c2f0,رائع وجميل جدا انصح كل واحد يثبت STC الله يحميك ويحفظك يا ارض الحجاز,5,Positive,General Positive Sentiment,2026-08
+460f6760-77c1-446b-bd7e-b218eca324ca,متازجدا,5,Positive,Other / Unclassified,2026-08
+47182ea0-5daf-4a84-876c-be60b0c94488,يستاهل خمسه نجوم,5,Positive,Other / Unclassified,2026-08
+a4aac288-3b8c-4637-910e-377d4bde5f68,جيدا جدا,5,Positive,Other / Unclassified,2026-08
+25f75991-acac-4682-adc6-ae9864c0398f,انا بقالي شهر ونص ابغي بطاقه sts البلاستيكيه حاولت عده مرات طلبو مني تحديث عنوان وطني وحدثت بالفعل كلمت خدمه العملاء قالو مافي حل عشان حدثت العنوان اكثر من 3 مرات اي العمل والله كنت بحب الخدمه بس قربت اكره ال sts,1,Negative,Login & Registration Issues,2026-08
+2fc0216c-e7b1-465b-ac2d-9e03799663e4,لماذا اجباري يكون المبلغ اقل شي300,1,Negative,Adding Funds & Limits,2026-08
+08501c39-54c1-4f4d-8760-534b6d9a239b,ممتاز جدا بس لو تعدلون الحد اليومي,5,Positive,General Positive Sentiment,2026-08
+41a4e52c-75ad-4d09-a57d-ec3ecd64e4ce,خدمه ممتازه جدا,5,Positive,General Positive Sentiment,2026-08
+aa4c1bfc-4979-4343-8060-403d6a8564ba,اشتي اغير رقم جوالي ماقدرت,5,Negative,Login & Registration Issues,2026-08
+2e35c7f8-92d3-4b6b-a628-22c90bb5610f,الدخول الى التطبيق صار متعب جدا ؟ تاريخ 3 8 2026 كما اضطررت ان اغير التقييم بعد الفشل الكبير للفيزا ب stc bank اشتريت من الاون لاين سحبوا الفلوس ولم يتم تحويلها للتاجر ولا تظهر بكشف الحساب ؟ وعند تقديم شكوا من التطببق ماحد بيرد اطلاقا رغم اني قدمت اكثر من ثلاث مرات ؟ وعند التحدث مع الخدمه قال انتظر من 21 يوم الى 45 يوم ؟ معقول تسحب فلوسي واقعد انتظر كل هذه المده لتعود او ليستلمها التاجر ؟ الفيزا عندهم فاشله هل من مجيب ؟,1,Negative,Login & Registration Issues,2026-08
+69b12639-f29a-4d82-ad68-c2ef06785312,ولا اروع,5,Positive,Other / Unclassified,2026-08
+edb6c0d3-e24d-4ba1-babf-5775ec0e8ddb,الفشل في تجربه,1,Negative,Other / Unclassified,2026-08
+055c7d4b-d778-4b9d-b213-d16a20144da8,اكثر من رائع,5,Positive,General Positive Sentiment,2026-08
+9c5e58e3-566a-4208-b480-dc26bf7c8a40,ابرنامج مخرف طلب من اني اسوي دعوه لغلب الاهم في ابرنامج مشتركين عندي مشاكل البرنامج غير جيد,1,Negative,Other / Unclassified,2026-08
+e7f64c90-b81e-4c75-a8be-e96f34757b30,نواجه مشكله في دخول ططبيق اس تي سي بنك,5,Negative,Login & Registration Issues,2026-08
+c1d189da-a03e-4eba-91ca-2d8ff2f7ee21,سريع جدا ماشاءالله,5,Positive,Other / Unclassified,2026-08
+6f20c463-ce1c-4ff0-b661-7f137e4f4666,اذا اقامتك قربت تخلص يحبس الاموال في الحساب ما تقدر تعمل تحويل لاي بنك,1,Negative,Other / Unclassified,2026-08
+625cb532-8dab-4ae1-9978-4b8d89a899e0,ممتاز وخدماته حلوه,5,Positive,General Positive Sentiment,2026-08
+6a0013be-6909-4502-be37-c32f60309007,نجمه وحده لانه موضوع تغذيه البطاقه كان اختياري والحين اقل مبلغ ٣٠٠ يعني تمشو الناس على كيفكم حاجه مستفزه طبعا,1,Negative,Adding Funds & Limits,2026-08
+d5ff9b63-85c1-4c0d-a75c-f5bd5e7eca6a,ما تنضاف البطاقه في مدى باي مدري ليش,3,Negative,Other / Unclassified,2026-08
+0725f907-ab35-4b75-98ff-702778947829,جيد وسهل,5,Positive,Other / Unclassified,2026-08
+94b2f01e-7115-468d-b86b-df77eab49188,من اروع البرامج التي استخدمتها,5,Positive,Other / Unclassified,2026-08
+e783a2a6-a6a8-4687-8f56-1a0b7b32439e,جزاكم الله خيرا,5,Positive,Other / Unclassified,2026-08
+fe950ec8-8cb6-40d6-bc83-9901daf888c1,التطبيق سيئ وبحاله يرثى لها,1,Negative,Other / Unclassified,2026-08
+99864d21-38d4-484c-95ea-3bbabf69ea7e,جدا,5,Neutral,Other / Unclassified,2026-08
+f22eb963-e592-4289-b843-f84c428c0c56,تطبيق يستخدم جيدا,5,Positive,Other / Unclassified,2026-08
+3ea98204-e5b8-4c47-99df-34a1630064ef,شكرا stc,5,Positive,General Positive Sentiment,2026-08
+500d718e-dba8-4460-bc51-58a4a0a8a02a,اضافه ما لا يعمل تغيير انتهاء بطاقه الاحوال الجديده,3,Negative,Other / Unclassified,2026-08
+1ca80a36-f020-48f9-b64e-7a03d28b783f,الحد لايداع الاموال مرتفع جدا,1,Negative,Adding Funds & Limits,2026-08
+3cd73783-2cac-4c98-8c26-14c210d83289,حواله نقديه تستغرق يومين الحواله الكترونيه او بالحمام الزاجل,1,Negative,Financial Complaints & Fees,2026-08
+a1f6f9b2-91b6-4b91-8c3c-9e6bc33f589c,شكر على واجب,5,Neutral,Other / Unclassified,2026-08
+3a7ce385-9d0d-4bad-8ea3-fd74d2794687,ما يفتح يريد التوثيق وما يوثق تم الحذف,1,Negative,User Experience & Support,2026-08
+7919ce01-0849-4630-82f8-5ae0b6ac4b26,بنك سيئ لا يسمح بتحويل مبالغ الا بحد معين يفرضه عليك,1,Negative,Adding Funds & Limits,2026-08
+41a1dc93-a6a4-4415-9f2a-97fbabca0617,ارجع المبلغ لي حسابي,1,Negative,Financial Complaints & Fees,2026-08
+f75a0a9b-69f6-4198-88f8-2e861fc8083c,فاشل مو راضي يتحدث,1,Negative,Adding Funds & Limits,2026-07
+5c1ffe7c-ee2b-4d19-9358-18a9d5955310,سريع وممتاز جدا,5,Positive,General Positive Sentiment,2026-07
+ed6d0648-2c11-4ce4-9d69-2fa88fb27ec6,دائما الان يقول لا يمكن تحميل البيانات اعتقد البرنامج والشركه بكبرها في البحرين تجربتنا معاه فائقه السوء نسينا رقم الست ارقام ومهما نحاول ندخل ٥٠ مره في ٣ سنين وهو لا يفتح ماهو المبرمج جيفري ابستين مات اول شركه حكوميه في العالم تبيع تلفزيونات وغيره,1,Negative,Login & Registration Issues,2026-07
+619f90c5-8dd8-4c06-8a84-92d2cf5b4ef2,كنت قيمته ب ٥ نجوم، ولكن تغيرت جوده التطبيق، وتغيرت سياسه الشركه في التعامل مع العملاء اخر ماحدث من سوء في تقنيه هذا التطبيق، اني اضفت بطاقتي الى سامسونج بي، وتمت الاضافه، ولكن عند تفعيل البطاقه لاستخدامها، يطلب منك رمز التفعيل، تاتيك رساله من الشركه بانه تم ارسال الرمز الى الهاتف،ولكنك لاتحصل على اي رمز، مما افقدك عدد المحاولات المسموح بها لادخال رمز التفعيل ،فاصبحت البطاقه مضافه، ولكنها غير مفعله، مما يعني عدم الاستفاده منها,1,Negative,Adding Funds & Limits,2026-07
+3d7cd1e7-c69f-4113-91b3-0423e00ebf6e,ممتاز وسهل في الاستعمال جزاهم الله خير,5,Positive,General Positive Sentiment,2026-07
+3a77888e-ee4a-474b-80e5-be25940de547,افضل شي استي شي باي,5,Positive,General Positive Sentiment,2026-07
+b05bab1f-cb1c-4f81-a298-e5ee2adbd38e,رائع جدا اشكركم على تسهيلات الخدمه الجيده,5,Positive,General Positive Sentiment,2026-07
+18afdb71-e8b8-49a8-81f9-21a565700486,معقد جداا وساسيه تسجيل الدخول صعب جدا وكل شوي يقفلون حسابي اذا غلطت بالرمز او نسيته,1,Negative,Login & Registration Issues,2026-07
+0740b891-d754-4149-af41-86eabd2469df,سيء اقل تحويل ٤٠٠ ليش او ٣٠٠,1,Negative,Adding Funds & Limits,2026-07
+970be725-55e4-42a9-99bd-906b38badda3,انه رايع جدا,5,Positive,Other / Unclassified,2026-07
+23caf29a-649a-4f93-aff8-0808aa26e941,ماشاء الله تبارك الرحمن ممتاز جدا,5,Positive,General Positive Sentiment,2026-07
+66b1c015-4ccd-48cd-af23-295263b8f3b0,رائع جدا شكرا لكم على هاذا التطبيق,5,Positive,General Positive Sentiment,2026-07
+6f005512-01e7-4823-8237-d909f5be4979,بنك STC من افضل البنوك الرقميه، يتميز بسهوله الاستخدام وسرعه تنفيذ التحويلات والخدمات الماليه بكل احترافيه تجربه مريحه، تطبيق متطور، ودعم متميز يجعل اداره الاموال اسهل واسرع شكرا لبنك STC على الخدمات الرائعه والثقه التي تقدمونها لعملائكم,5,Positive,Login & Registration Issues,2026-07
+df8f5f76-9efe-44de-a65d-736bba6997e3,متاز جدن,5,Positive,Other / Unclassified,2026-07
+d94dc1d2-ad67-44d7-ab69-f2896702e84f,برنامج ممتاز لاكن صار التحديث الجديد سيء لازم تضيف اموال فوق ٣٠٠ اول كان اسهل حد ١٠٠,3,Negative,Login & Registration Issues,2026-07
+acd8dd14-5237-44c8-8fd5-084ea2df4fca,اصبح التطبيق سي لابعد حد,1,Negative,Adding Funds & Limits,2026-07
+7aa7cf50-0773-4b10-a010-69fc44bddf54,افضل من الاول,5,Positive,General Positive Sentiment,2026-07
+96b2ef0b-9975-4b0c-a8e2-e6721dfa99b7,البرنامج كل مره يصير من سيئ الى الاسوء صار يعلق واجد وكل شوي يقول انتظر 5 دقائق واذا باضيف اموال لازم اقل شي 300,1,Negative,Adding Funds & Limits,2026-07
+7b95f9c5-12a5-42c0-8505-2d960b84060c,اتمنى القاء ميزه الحد الادنى وجعلها قابله للتعديل والتغيير,3,Neutral,Adding Funds & Limits,2026-07
+4325f789-8f17-46f4-b224-4297b951729e,يعطيكم العافيه,5,Positive,User Experience & Support,2026-07
+413ac2ae-14bb-4cca-9a78-8bc5f9e2d634,ماجاء تطور اكثر باقي,1,Neutral,Other / Unclassified,2026-07
+45a2fdc7-8f11-4301-9372-e66d6876d315,ارتفاع اقل حد للشحن امر مزعج جدا,1,Negative,Adding Funds & Limits,2026-07
+575f49b2-fd8b-4a59-8631-0a9fb7bb11ad,ما انصح فيه,1,Negative,User Experience & Support,2026-07
+c69cb055-257f-418c-9cbf-71588e19160e,تطبيق روعه,5,Positive,Other / Unclassified,2026-07
+0c8225f0-d6d0-4859-8701-4c6d208b7f9e,نحذف حسابي ميطلع عندي تسجيل دخول يطلع انشاء الحساب هل في طريقه ادخل حسابي البنك سي باي,5,Neutral,Login & Registration Issues,2026-07
+b5430a94-e898-4320-b305-7f7a8b51833c,ممتازه مره,5,Positive,General Positive Sentiment,2026-07
+df0eb561-c820-4fd9-9b4a-19443d003ba8,رائع جدا استمروا للافضل,5,Positive,General Positive Sentiment,2026-07
+610224c2-b961-4429-948b-3bf54d6a9df1,شكرا لك,2,Positive,General Positive Sentiment,2026-07
+0ed1082f-b048-4656-b5c6-e1688961ef52,بعد كل فتره يتم رفع الحد الادنى لاضافه الاموال,1,Negative,Adding Funds & Limits,2026-07
+70491dfc-6129-412b-98fa-89f42df30faa,ماسبب عدم تحميل البرنامج حاولت اكثرمن مره,1,Neutral,Other / Unclassified,2026-07
+2a62473c-79ce-4120-93c4-5463725a688a,سيء جدا منذ تحول الى بنك فقد كل مزاياه,1,Negative,Financial Complaints & Fees,2026-07
+ea71c04c-de7d-4c0e-97fc-91a2b1cd8b48,صار يتشرط على العملاء بالحد الادنى لاضافه الاموال ٣٠٠ ليش مافي غيركم؟ سيتم التحويل لبرق؛ اسهل و يحترمون عملائهم و لايتشرطون عليهم,1,Negative,Adding Funds & Limits,2026-07
+9a21a84d-69cf-4959-a282-5b28fdeb547b,سهوله في الاستخدام شكرا STC,5,Positive,General Positive Sentiment,2026-07
+8a86ce05-fb9c-4fb0-837e-f3a73a3a742a,لايوجد كاش باك,1,Negative,Other / Unclassified,2026-07
+c0dd89aa-994a-49bf-9c2a-9ec31de762bd,ممتاز جدا جزا الله القايمين عليه خير الجزء,5,Positive,General Positive Sentiment,2026-07
+29517c8a-2964-4a12-8095-8c75f641551e,تطبيق حلو جدا,5,Positive,Other / Unclassified,2026-07
+097649a8-c52f-49de-ba48-70fd8b650208,ابداع,5,Positive,Other / Unclassified,2026-07
+140a5be0-ba71-4a72-8039-a7e3b8d99bff,خدمه vip,5,Positive,Other / Unclassified,2026-07
+8ea177cc-33c2-46cb-8854-4dd4a47b1ef9,خدمات ونظام سهل ومرن لاستخدام,5,Positive,Other / Unclassified,2026-07
+b70bfd70-0326-4cc8-aab3-06eb54ed0d16,في شرط الحد الادنى لشحن يخلي التطبيق خيار غير مفضل للاستخدام وايضا كثره مشاكل تعليق التطبيق,1,Negative,Adding Funds & Limits,2026-07
+1fb4c391-8faf-4d44-85b1-8d03b8b67413,مشاءالله خدمات حلوه,5,Positive,Other / Unclassified,2026-07
+04dc0c22-5e80-4c75-aee4-c8b2fdef5934,سيء ما اقدر احول لحسابي في البنوك ولا لقدر اضيف البطاقه للدفع عن طريق nfc الجوال الصراحه ندمت اني حطيت في حسابي مبلغ والان ما اقدر استفيد منه,2,Negative,Financial Complaints & Fees,2026-07
+30cce486-f4d8-4944-8a78-ef8a54cf2d77,اصبح سئ بالنسبه لاضافه الاموال يلزمك اول عمليه ٣٠٠ وبعد ٥ عمليات ممكن يصبح ١٠٠ ليش يجبرني على هالشي فعلا فيه تطبيقات افضل منه,1,Negative,General Positive Sentiment,2026-07
+2a081c6e-2549-4e4c-83ff-1e8d81feef56,بنك سيئ جدا قامو في الاحتيال وصرف من حسابي من خارج المملكه وتواصلت معهم نظرا لاني لا اشارك اي معلموت تواصلت معاهم قالو سيتم استرداد الملبغ وفتح بطاقه جديده فوق الشهر رجعو تواصلو معي ناسف لارجعت الفلوس ولا فتح بطاقه جديده معامله سيئه بنك يسهل اختراقه ولم يتم تعويضك مع ان مبلغي بسيط الحمد لله اني ما اودعت ملبع كبير عنده,1,Negative,Financial Complaints & Fees,2026-07
+24659fd2-85f5-434b-afd3-ea4515716b58,سرعه الاجرا,5,Positive,Other / Unclassified,2026-07
+580c569b-90e4-45e4-91dc-b264ee518d51,بعد التحديث الجديد صار يطفشني يجبرني على اضافه حد معين من المبلغ الا 300 ريال ولا ما اقدر اضيف اقل وتفعيل البصمه لدخول التطبيق فيها مشكله غير انو كنت مضيعه البطاقه فا طلبت بدل عنها اخذو مني مبلغ على الرغم انو خدمته سريع في الشحن وتفعيل بس يوتر الاعصاب,1,Negative,Login & Registration Issues,2026-07
+513224ab-57ec-4fe0-85d5-a4b27174d669,التطبيق بطيئ جدا في اغلب الخدمات,1,Negative,Other / Unclassified,2026-07
+3c85bd39-dd8e-463a-8496-6efaa8a02220,افضل بنك اتصالات على الاطلاق,5,Positive,General Positive Sentiment,2026-07
+d7b94ee3-acca-4fd2-a73a-8de47429fcae,لماذ رفعتم حد اضافه الاموال الا ٣٠٠ مفروض تكون الاضافه ٥٠ ريال مثل البنوك الثانيه غيركم ما سوى حد للاضافه الاموال اقدر اضيف حتى ٢٠ ريال ولكم جزيل الشكر,1,Negative,Adding Funds & Limits,2026-07
+f47e83de-e39e-427f-92c4-02fff4f523b5,الله يعطيك العافيه,5,Positive,User Experience & Support,2026-07
+cb740896-3de2-4ced-891e-e6444ba29ced,كان ممتاز كان يفك ازمات اول ما تضيف اموال اي شي الي تريده الان لازم 300 ريال ماذا يفعل شخص عنده اقل من هذا مبلغ,2,Negative,General Positive Sentiment,2026-07
+004a81d5-93b7-4ed5-a392-5bae268e5821,لا يمكنني تسجيل الدخول على ويظهر اشعار فشل تسجيل الدخول علما بانه لا يوجد خانه تسجيل الدخول سوى التسجيل فقط,1,Negative,Login & Registration Issues,2026-07
+27fb3fb1-ab68-4661-a2e3-791c409f184b,برنامج حلو,5,Positive,Other / Unclassified,2026-07
+862804fc-dd61-4c4a-8fc3-b6a02cdf53ae,بنك اس تي سي باي لا يعلى عليه خدمه جيده سهل الاستخدام مفيد جدا انه مماثل لمصرف الراجحي في سهوله الاستخدام والتعاملات سهله يستاهل بكل جداره خمس نجوم,5,Positive,Other / Unclassified,2026-07
+61f4cdb3-17c5-4ad1-87ab-d486708f0215,نجمه لان شركه عملاقه وللان لاتدعم الشحن عن طريق سامسونج باي رغم ان الخدمه موجوده بالسعوديه من سنتين ولم يدعموها لتسهيل شحن المحفظه,1,Negative,User Experience & Support,2026-07
+f6ac6c90-3624-45dd-bc4c-005b082b377e,مريح وجيد نوعا ما,5,Positive,Other / Unclassified,2026-07
+8b834cb2-f5b8-4538-8b2d-618c3b3635b8,لم زياده رسوم اليدلع ٣٠٠,2,Negative,Adding Funds & Limits,2026-07
+53b2749c-dae1-4496-aca4-21a908d880ba,ممتازه بس التطبيق ما يفتح معي بعد فرمتت جوالي رفض فشل في الادخال للرمز,5,Negative,General Positive Sentiment,2026-07
+1c60c9bd-6c5c-46bc-a0f2-bb4a690a5de1,التطبيق ممتاز ولكن فيه مشكله عندما افتح التطبيق من القايمه واريد الدخول في الحساب لايفتح يقول حدث خطا ولا يفتح الا اذا دخلت له من سوق قوقل بلاي ارجو حل هذه المشكله,4,Negative,Login & Registration Issues,2026-07
+c21e1556-5fba-49a4-9d1f-145a85617cd5,شكرا لكم على التميز,5,Positive,General Positive Sentiment,2026-07
+76cbf21c-9f45-44d4-8af4-84fcce2f8a3f,شي جميل ورائع,5,Positive,General Positive Sentiment,2026-07
+f3db4c70-2979-48bc-98dd-ca396775cb3c,فوق التقييم,5,Positive,Other / Unclassified,2026-07
+aa79f3f2-ef43-4e02-9ebd-e8a939c9224b,ماشاء الله سريع وسلس الاستخدام,5,Positive,Other / Unclassified,2026-07
+604caa50-746c-4566-9a7a-7d98e06fc353,ما شاء الله تبارك الله تطبيق رائع جدا جدا و سهل و سريع,5,Positive,General Positive Sentiment,2026-07
+c13535c1-6469-4e1a-a600-a04196873eb6,كل ما جاه يصير اسوا برق و urpay افضل و اسرع سلامات لازم اشحن 300 ريال,1,Negative,General Positive Sentiment,2026-07
+3cf6a2ad-dfbc-4cf8-ba85-7a798d13b5cf,بطيئ جددا,3,Negative,Other / Unclassified,2026-07
+71e9836d-c567-4222-8595-3a7958cab7af,تطبيق سيئ، يجبرك على اضافه 300 ريال، حد اقل ليش؟,1,Negative,Adding Funds & Limits,2026-07
+7a5fbf36-cc1b-4bb2-bcb5-e5fb71913faf,فشل في تسجيل الدخول,1,Negative,Login & Registration Issues,2026-07
+e52b9ca7-4abe-4a18-a1b6-52ff94be058e,جميله,5,Positive,General Positive Sentiment,2026-07
+c26f2cd1-e4fe-4ee7-966e-c225bd2b40d3,لماذا يتم وضع حد ادنى ٣٠٠ ريال لاضافه الاموال جار البحث عن تطبيق اخر لستم الوحيدون ولا الافضل,1,Negative,General Positive Sentiment,2026-07
+8673bbc8-415f-4b97-8c8e-142263731eca,رائع جدا وسريع التحويل,5,Positive,General Positive Sentiment,2026-07
+28cc348b-52ce-4e3e-99a9-2d12719fa72d,قوه القوه,5,Positive,Other / Unclassified,2026-07
+b7fb4609-0371-42b4-abb4-883e6a3470b0,برنامج جيد,5,Positive,Other / Unclassified,2026-07
+55deec59-3508-41c5-abd4-e411790f7b68,ليش صار حد ادنى لاضافه الاموال من 300 هذا عائق جدا,1,Negative,Adding Funds & Limits,2026-07
+9f9832cb-9f08-436a-9d9d-f6fa4c544fbd,بنك سلس وشركه عملاقه واسم ثقه ماباقي شيء لازم تفتحون حسابات لكم,5,Positive,Other / Unclassified,2026-07
+fd061f49-4e02-45c9-8dd8-986eed7a44c5,تطبيق مريح جدا,5,Positive,Other / Unclassified,2026-07
+02c8995a-0ca3-4410-bd66-b81fb6b3a84e,ممتاز عندي مشكله في التسجيل,5,Negative,Login & Registration Issues,2026-07
+886d6953-d44e-4d30-85e2-072ee6605dae,خصم كل حواله,1,Negative,Financial Complaints & Fees,2026-07
+77015e94-c056-4c17-aaa4-d7e3b48dd6da,اسوء تجربه خوضتها في حياتي وخصوصا الحوالات الدوليه لي ١٢ يوم ومازلت تحت المعالجه امتي تطلع فوق لا اعلم حسبي الله ونعم الوكيل,1,Negative,Other / Unclassified,2026-07
+5a8f8794-906a-441a-bbd7-f36f010541b0,خدمه ممتازه وسريعه ماشاء الله تبارك الله,5,Positive,General Positive Sentiment,2026-07
+1f424e35-3d0a-45b7-afe4-c0bf414cfce0,ماشاءله افضل حساب,5,Positive,General Positive Sentiment,2026-07
+1df3b446-ddf3-432f-9a27-ad0454ab6cae,بطل لازم تحطون قروض ميسره بطرق شرعيه اسلاميه مش تمويل وخلاص,5,Positive,Other / Unclassified,2026-07
+2cb42450-c808-4862-bdd2-0543208ad802,رائع جدا مفيد جدا,5,Positive,General Positive Sentiment,2026-07
+b891bb24-e939-448f-9183-c327decfadc2,بعد التحديث لم يفتح التطبيق، في كل مره يتم ارسال الكود ويعود لخطوه انشاء حساب جديد,2,Negative,Login & Registration Issues,2026-07
+7fd46e8a-fd8d-4853-be9e-df030680fa66,لم استطيع تحويل من STS الى حسابي في بنك الراجحي,1,Negative,Other / Unclassified,2026-07
+ef51398c-f73c-410c-b639-451c56d5edac,ضيعتو وقتي جحش باك وضحك على دقون,1,Negative,Other / Unclassified,2026-07
+4b296b54-2473-46ac-862c-d61bed9e687e,ممتاز بس مافيها ارباح نشتي نكسب فلوس جوائز تحفيزيه,5,Positive,General Positive Sentiment,2026-07
+26a00f88-bb36-4c4e-855b-97cf1066754f,سيء جدا كل مره يرفع مبلغ الايداع,1,Negative,Adding Funds & Limits,2026-07
+2b46c378-d2f0-48f4-8bd4-4ba06dc5ca79,التحديث الاخير سئه جدا والتطبيق من اسوا الي اسوا,1,Negative,Login & Registration Issues,2026-07
+88f8f3ae-c5cc-4665-ad27-381a5318e648,بتضيف فلوس لازم مايقل عن 150 ماادري وش يفكر فيه بنك الطفاره,1,Negative,User Experience & Support,2026-07
+852ce84b-2e14-4ed8-b0f3-2a4bad0993f0,تطبيق جيد جدا,5,Positive,Other / Unclassified,2026-07
+f72e1d1e-9cd3-4b91-964f-cbb7072db606,اوكي,5,Neutral,Other / Unclassified,2026-07
+1d673143-b61c-41f3-aebe-74ac989bcc42,بنك فاشل لا يحترم العميل وشغلهم كله غلط في غلط و خدمه العملاء من سوء الى سوء الله لا يوفقكم,1,Negative,Other / Unclassified,2026-07
+f9dd53f9-f70a-4eae-b2e4-b297e78f4285,تحويل دولي مجاني حلوو جداا وشكرا لهم,5,Positive,General Positive Sentiment,2026-07
+aa15d44d-e6e9-465d-9512-bd1f322911a4,خدمه عملاء سيئه كلهم عندهم نفس الرد ولا فى اى حد بيحل مشكله ولا بيوجهك للحل او بيساعد بجد اسكريبت محفوظ,1,Negative,Adding Funds & Limits,2026-07
+ff8b4384-2a28-4d9e-a0ca-9101bc41c48a,اشكركم وانا عن نفسي احسنت الاختيار,5,Positive,Other / Unclassified,2026-07
+ec8be554-22c9-4b96-aca7-f56da96012f3,تطبيق ممتاز ما فيه اي مشكله,5,Positive,General Positive Sentiment,2026-07
+1543d069-fecf-40f2-87ed-463e584c5c2b,ممتاز جدا انصح باتعامل معه سهل وسريع,5,Positive,General Positive Sentiment,2026-07
+52710d0f-d608-4084-9151-90a7cf01cfc5,ثلاث اسابيع وخدمه الاسترجاع ما تشتغل معي مبلغ ارغب في استرجاعه مهما تواصلت معكم مافي حل بنك لل اسف,1,Negative,Financial Complaints & Fees,2026-07
+df970394-ee8c-45ad-bc22-5cbaa85a20cf,بعد التحديث اصبح يعلق التطبيق,1,Negative,Login & Registration Issues,2026-07
+5ec8797f-7f84-4e84-b674-ee26185aed64,السرعه مره جميل,5,Positive,General Positive Sentiment,2026-07
+9f68c023-a8bf-4bb3-81aa-e632b0fcd08d,اجمل خدمات وشكرا,5,Positive,General Positive Sentiment,2026-07
+8b33f1cd-9823-4556-a181-22b63e5110c8,للاسف كانت تجربتي سيئه تم تجميد حسابي ولم اتمكن من تغيير رمز المرور رغم انني استطيع تسجيل الدخول اضطررت للتواصل مع خدمه العملاء والانتظار لساعات دون حل فوري اتمنى تحسين سرعه معالجه هذه الحالات وتوضيح سبب التجميد داخل التطبيق بشكل افضل,1,Negative,Login & Registration Issues,2026-07
+541db0b1-0d14-418e-ae48-22b21597e170,جيد ،,5,Positive,Other / Unclassified,2026-07
+b091f23d-2489-431c-8b6d-73bc800a025f,Excellent and wonderful,5,Positive,Other / Unclassified,2026-07
+1e64f224-ae72-4f89-832f-558ad77343eb,غلوا الرصيد المضاف من 100 الى 300 ومن 300 ااى 500,1,Negative,Adding Funds & Limits,2026-07
+d11a0a95-f65c-40d8-9f12-05ffd4177a13,حلو جميع الخدمات شكرا لكم,3,Positive,General Positive Sentiment,2026-07
+7cedb7ef-7e28-4251-8af8-bbbe218a9419,قبل التحديث كنا نستطيع ان نضيف الاموال ١٠٠ ريال، اما الان يقول الحد الادنى لاضافه الاموال ٣٠٠ ريال، ولن استفيد بهذه الطريقه ولذلك سوف اقوم بحذفه,1,Negative,Login & Registration Issues,2026-07
+a2dd9094-d5c7-4b4e-a2a7-246cbc8089ce,ممتاز جدان وتقيمي 5نجوم,5,Positive,General Positive Sentiment,2026-07
+e5f638bb-9ea4-4ca5-99f6-078188382a3a,افضل بنك رقمي,5,Positive,Login & Registration Issues,2026-07
+315d72ca-44d9-4800-8c4b-55f7adc022ae,نسب عاليه,1,Negative,Other / Unclassified,2026-07
+77f6f483-9ae1-47f3-a6fe-06f30c25a196,اسوء بنك,1,Negative,Other / Unclassified,2026-07
+d531a841-f377-4571-b6f5-361f569e9705,شكرا احلا بنك,5,Positive,General Positive Sentiment,2026-07
+49521188-dd6e-4a45-a127-281f99f4e3df,ليش اقل مبلغ اضيفه للحساب ٣٠٠ لا تحد الشخص على مبلغ كبير ارجو مثل اول حتى النجمه بالقوه حطيتها و لا ما كان ودي احطها,1,Negative,Adding Funds & Limits,2026-07
+69afa346-65eb-4753-a763-3048df0fa981,احلى خدمه,5,Positive,Other / Unclassified,2026-07
+3641cbfc-d3e5-4df5-b0a6-93130f40bc89,احسن تجربه واحسن تطبيق نظام سهل,5,Positive,Other / Unclassified,2026-07
+a378e237-a6a1-4b2d-ad18-5f1a0c9a79ba,احلا خدمه في حلا بنك,5,Positive,Other / Unclassified,2026-07
+60d51d51-79a4-4d3f-9e4a-52541d63ec1c,ممتاز بارك الله في جهودكم,5,Positive,General Positive Sentiment,2026-07
+34589033-0e9d-4d11-a371-8cb7ba391b34,احلا تطبيق,5,Positive,Other / Unclassified,2026-07
+4f1c013a-f0b3-41a2-8b74-5c8efa6f4ffc,افظل تطبيق مر على,5,Positive,Other / Unclassified,2026-07
+051a16d7-8f36-45a9-a21a-57c053a23b3f,جيد جدا جدا جدا جدا جدا,5,Positive,Other / Unclassified,2026-07
+b3500c66-e141-4057-8565-147d7b37f54a,اكثر من رئع,5,Positive,Other / Unclassified,2026-07
+bd122063-ce0c-4684-a2e0-d410b84d5812,تطبيق ممتاز ولا فيه اي مشكله,5,Positive,General Positive Sentiment,2026-07
+dbf7a4b2-aa55-47c1-952f-93bd72fa4654,تجربه ممتازه ونريد ان يكون بيها ايداع,5,Positive,General Positive Sentiment,2026-07
+a6fdfdad-523e-492f-840f-fbc2622a615b,جيد ممتاز جدا,5,Positive,General Positive Sentiment,2026-07
+f514917b-21b1-4ec1-b397-748ac5de17cc,صار بنك زفد,1,Negative,Other / Unclassified,2026-07
+30eeb63e-6682-43d8-af6b-88eb365354eb,احسنت,5,Positive,Other / Unclassified,2026-07
+17441c71-41c7-49a8-8b8c-1df995e15cc8,شكرا جميل جدا,5,Positive,General Positive Sentiment,2026-07
+43d72141-c337-40ee-8f58-5c7a2ecd5da3,خدمه جدا جدا جدا ممتازه,5,Positive,General Positive Sentiment,2026-07
+9ffab1e6-2338-4aef-83e0-b1c1397d7fa3,خدمات فائقه السرعه شكرا جزيلا,5,Positive,General Positive Sentiment,2026-07
+797fec6f-0bdc-4e08-99e1-8b85f60207d0,ممتاذه,5,Positive,Other / Unclassified,2026-07
+ba257bfe-c48d-4caf-9f6d-db7b6ab8b4c7,التطبيق حلو بس في مشكله انتهت البطاقه وطلبت ثانيه يقلي ٢٠ريال ليه المفروض تعطونا مجان زي الاوله حملت بنك برق ميزته حلوه حتى تحويلاته مجانيه البطايق المسموحه لك ثلاث مجانيه مدى,3,Negative,Financial Complaints & Fees,2026-07
+055cc6dd-74eb-4e14-8cc3-9c20cb6dfcfc,الحذر ياخذون عمولات كثيره على الشراء من الانترنت بدون ما تظهر عند الشراء,1,Negative,Other / Unclassified,2026-07
+be24e665-d2ff-4802-91ac-be1976b8bd58,ممتاز لكن لماذا وضع قيود على اضافه الاموال,5,Neutral,General Positive Sentiment,2026-07
+742ba4c7-8f48-46d6-900a-3f1e490d9e06,مشكله في تحديد الموقع ونسيت كلمت المرور واعاده انشا كلمت المرور الرجا اصلاح المشكله,1,Negative,Login & Registration Issues,2026-07
+06c5fe4a-638c-47ca-99ac-d77129bc8ae2,excellent,4,Positive,Other / Unclassified,2026-07
+cb5c266d-bc72-4383-8889-c9514790b430,مزيد من التقدم والنجاح الدائم يارب,5,Positive,Other / Unclassified,2026-07
+deab340c-b225-4f08-b7e3-28d246855d97,سمح شديد,5,Positive,Other / Unclassified,2026-07
+74a218c1-8aa9-43f0-8333-4943c6382f79,بنك خدمات مميزه,5,Positive,Other / Unclassified,2026-07
+18024960-0855-4f51-bfa3-9bafef82b87e,اسوا بنك من شهر وحاجزين اموالي عندهم ما اعرف باي حق واي سبب وكلما اراسل الخدمات يردو ما اعرف السبب اسوا بنك والنجمه كثير عليهم,1,Negative,Other / Unclassified,2026-07
+ab9e984c-b75f-4b26-bbaa-341cb0243bfe,شكرا اس تي,5,Positive,General Positive Sentiment,2026-07
+106afa24-8740-4832-954d-2a37b6bbb573,افضل تطبيق والتعامل بيه سهل,5,Positive,General Positive Sentiment,2026-07
+eec6da60-89ee-4a0b-8e38-0dcb6b68586e,god,5,Positive,Other / Unclassified,2026-07
+15794ab8-1c92-4419-bf3e-458a43e5832f,اكثر من اسبوع يرسل رمز التحقق ويتم ادخال الرقم السري ولا يفتح نهائيا,1,Negative,Login & Registration Issues,2026-07
+a9c8e646-ab93-42c6-9574-b2ec35ee261e,سهوله في الاداء وتطور سريع انجاز في ثواني,5,Positive,Other / Unclassified,2026-07
+0ca5d168-0b4f-4649-a80d-1dd21f078bfb,برنامج جميل وسهل اثق فيه,5,Positive,General Positive Sentiment,2026-07
+2adcdb0e-c9fb-4110-907d-3abc53578eb3,اسطوري ما شاء الله,5,Positive,Other / Unclassified,2026-07
+b1ae9b26-fe12-43c0-b0a3-0b29224595d0,اي مستقبل متخلفين عن البنوك بسنين شمسيه,1,Negative,Other / Unclassified,2026-07
+0335752b-bbf4-4981-be34-f5a988c93641,خدمه ممتازه وسريع الاستجابه واستخدام سهل تحياتي لمجهزدكم الرائع 10 10,5,Positive,General Positive Sentiment,2026-07
+bffc786b-9e3e-4da6-a31e-454279949a25,التطبيق ما يفتح معي صار شهر ولا لقيت حل,1,Negative,User Experience & Support,2026-07
+72ee361d-9e81-498f-9f8b-da6fccbef474,كاش باك سي مو مثل السابق,2,Negative,Other / Unclassified,2026-07
+5592ae48-4600-45b5-af8b-fb42262fae24,واللهي مافيها فايده صفر ريالا,2,Negative,User Experience & Support,2026-07
+39dd8552-89f5-4f79-bfcc-62f45f56c85c,تطبيق جميل جدا,5,Positive,General Positive Sentiment,2026-07
+8a7a6f4f-8c28-4771-920f-d9ce2cb80fbb,لماذا يوجد حد اعلا لاضافه الاموال و يكون في تزايد,1,Negative,Adding Funds & Limits,2026-07
+ccb45e76-d3a1-4537-9e08-6a6cc8ad46ec,تعيين حد ادنى لاضافه الاموال خدمه فاشله,1,Negative,Adding Funds & Limits,2026-07
+2fbddfbb-d41a-4a25-ab1f-62eec502c260,تحديد اضافه الاموال غير جيد,1,Negative,Adding Funds & Limits,2026-07
+ed632d50-f4bc-4b21-b8d7-103f9baa508f,ان شالله يخدم اللي عليهم ايقاف,5,Positive,Other / Unclassified,2026-07
+f10a629a-53ce-4742-8aa0-72270d117dc6,تجربه فعاله وناجحه جدا استفدت منها كثير,5,Positive,Other / Unclassified,2026-07
+a69fcbdc-d92f-40de-9f40-2eb2e5f3c887,ممتاز جدا جدا جدا جدا جدا جدا جدا,5,Positive,General Positive Sentiment,2026-07
+6cbc9ca8-37e6-4b65-bbbb-0b3197206f29,للاسف عمليات شراءدون علمى,3,Negative,Other / Unclassified,2026-07
+3be19284-ed53-497f-92c2-4d0f87984eab,تطبيق سئ لا انصح به وسيتم رفع شكوى عليهم بالبنك المركزي,1,Negative,Other / Unclassified,2026-07
+87ff3cf9-a7c3-419d-8e3d-36c701795bc3,التطبيق كل ماله ويصير اسوا، الحد الادنى صار 300 شي سيء جدا يعني اول 100 مشينها الحين 300 ليه,1,Negative,Adding Funds & Limits,2026-07
+88e3182b-01f9-4d42-8091-a29800548799,شكرا على التحديث الجديد وترقيه الخدمه عقبال الايداع والسحب من البنك رعاكم الله,5,Positive,Login & Registration Issues,2026-07
+7b61016e-8d33-487b-8356-7bc82f5298ba,ياسلام عليك يا stc bank منقذ بصراحه سهل ومريح وامن شكرا لصاحب الفكره i stc bank,5,Positive,General Positive Sentiment,2026-07
+fbf47d30-11b1-484b-b9ef-f30185416d94,فوق الممتاز,5,Positive,General Positive Sentiment,2026-07
+f2b4a129-b353-4a96-b34d-70c011309bc6,احسن وافضل الخدمات,5,Positive,General Positive Sentiment,2026-07
+05153569-8a52-41ac-992f-877cbf0cfca5,نحول الى برق افضل,1,Negative,General Positive Sentiment,2026-07
+41db4087-baf0-435e-a19e-12ea6f714280,التتطبيق المحفظه او اي محفظه او تتطبيق تقدر تضيف حتا عشره ريال للسحاب استي سي يبي اقل شي 300بصرحه جاري الحذف,1,Negative,Adding Funds & Limits,2026-07
+5e81bdb3-3ab5-43a6-bae4-b3471aeaadd1,تجربه فريده,5,Positive,Other / Unclassified,2026-07
+8a42fdd6-32f1-4e15-8579-fd014b01dbe0,التطبيق في مشكله بالدخول والتطبيق فيه مبلغ كيف اسحبو,1,Negative,Login & Registration Issues,2026-07
+30a7c18c-18df-4219-8c64-d6b111c9db35,سريعين,5,Positive,Other / Unclassified,2026-07
+68c5a648-db5d-4473-bf62-1d446bb366cb,عدم توفر جوجل باي,1,Negative,Other / Unclassified,2026-07
+926fb944-6268-4b14-964b-6ede0836bbb2,مره جميل,4,Positive,General Positive Sentiment,2026-07
+74a53c68-3bf0-481e-bb9f-0518b29c17b1,التطبيق صعب جدا,4,Negative,Other / Unclassified,2026-07
+e32d558e-0064-4bc7-9cca-33e564b4444e,حلو التطبيق مره انصح فيه,5,Positive,User Experience & Support,2026-07
+3b876522-5bd0-4882-a354-bc46e399cef9,مبلغ عالي لاضافه الاموال,1,Negative,Financial Complaints & Fees,2026-07
+8139648b-78b9-4f95-8818-a4a67e287a2e,بطي,3,Negative,Other / Unclassified,2026-07
+cf83a801-fd0b-4bd2-b229-df9206ed6abd,عند التحويل المباشر لبنك محلي التطبيق علق اكتر من مره سيعطي رساله خطا,3,Negative,Other / Unclassified,2026-07
+404977a3-8983-41aa-b129-62d06616821b,اجد انه جيد من حيث السرعه ولكن سعر الصرف وتحويل العمله والرسوم اعلى من تطبيقات اخرى,5,Neutral,Financial Complaints & Fees,2026-07
+edcd70b6-a810-4c3e-b80d-af672daebf00,ممتاز وسهل وسريع,5,Positive,General Positive Sentiment,2026-07
+009b23ff-5651-4f9c-a473-baa2c8b7021e,سيئ جدا يقوم بحجز الاموال عند وجود مخالفه مروريه عليك ولا يرفع الحجز,1,Negative,Other / Unclassified,2026-07
+afc9a522-4751-4a54-8234-56cb9c6fd367,الحد الادنى يقيد العمليات,1,Negative,Adding Funds & Limits,2026-07
+9e282908-46ec-451d-9333-0de516356ad2,تطبيق رائع وجميل انصح الجميع بالاشتراك به,5,Positive,General Positive Sentiment,2026-07
+07cf5770-dba4-4394-8fd6-75d7e808280d,يومهم بسنه,1,Negative,Other / Unclassified,2026-07
+a655516f-c65c-4314-8c55-d401b1f44f99,حلو بس لو يسمح بس نضيف اموال اقل من 100 ريال يعني مو ضروري لما نحتاج نحول لشخص مثلا 25 ريال نجبر انه نضيف 100ريال من حساب اخر,5,Neutral,Financial Complaints & Fees,2026-07
+c0f9528e-c898-43eb-a27b-adf74ab757a7,رائع ممتاز ممتاز,5,Positive,General Positive Sentiment,2026-07
+b003183e-8c35-447d-afa7-09868ac14afa,مفيد جدا,5,Positive,Other / Unclassified,2026-07
+b6883d2f-c673-43be-b9cb-07395ac327a3,سيئ الدعم لايفيدك وضاعت فلوسك بس تي سي بلي,1,Negative,User Experience & Support,2026-07
+8d23e5a8-232f-4b12-89b8-098e2b295f9f,سلمات ٣٠٠ حد ادنى الاضافه حسستوني ان الي معاكم عندهم الاف ريالات و لا تبغون تخرجون طفاره,1,Negative,Adding Funds & Limits,2026-07
+7c03cc34-9290-4a16-b164-2c495be45ae0,مليح,5,Positive,Other / Unclassified,2026-07
+b7659e9e-a7ae-4200-bf37-ed144cba2288,ليش فلوس في اس تي سي باي ما رجعوها في الحساب الثاني,4,Negative,Other / Unclassified,2026-07
+483d3dc0-2a9e-49b1-a896-efd28a9fac85,مره شكرا افضل بنك ا,5,Positive,General Positive Sentiment,2026-07
+e51e7a03-7a7e-4bae-a70f-e227ab1c9998,تحويل سريع بدون تاخير,5,Positive,Other / Unclassified,2026-07
+f09bea72-2a15-4e31-91b4-13dab96dee6c,Excellent,5,Positive,Other / Unclassified,2026-07
+961d3d99-59d4-4bc0-8091-8139552199fa,شكرا على تقديم هاذي الخدمات والمميزات شكرا STC,5,Positive,General Positive Sentiment,2026-07
+921bb8be-5478-4ff4-97d3-b8be7b589421,مره كويس وسريع جدا في الخدمه,5,Positive,Other / Unclassified,2026-07
+4f8d1f21-76d0-4b47-bf6b-712786008571,اسوء تطبيق سحبو فلوسي وما رجعوها وكل مره يفتحو لي تذكره وما ترجع الفلوس وارجع اكلمهم يرجعو يفتحو تذكره وهكذا المفروض هذا التطبيق يلغوه,1,Negative,User Experience & Support,2026-07
+e084be6a-e2fc-474f-8663-178902af6a45,لا انصح به,1,Negative,Other / Unclassified,2026-07
+5db1be79-8e86-474a-9f6f-0fec221c29ba,حلو ممتازجدا اتعمل معهم اكثر من 10سنين,5,Positive,General Positive Sentiment,2026-07
+0bc49709-bdd5-4148-82e9-ffd8d4bcb8ba,ممتاز رائع,5,Positive,General Positive Sentiment,2026-07
+192c4d84-3c5f-4a43-8e61-4f578db75800,جميل وسهل وسريع,5,Positive,General Positive Sentiment,2026-06
+007e2b0b-1b18-4bbe-b052-9285dbc2aae7,طيب,5,Neutral,Other / Unclassified,2026-06
+77fc2f7d-c0bc-4f20-88dd-57caa5c8cccf,ماشاء الله تبارك الله خدمه سريعه لا توجد اي مشكله,5,Positive,Other / Unclassified,2026-06
+c47ce70f-227e-4836-98e6-f53e92ad3406,جمل وسلس,5,Positive,Other / Unclassified,2026-06
+4a95343f-d46a-4ff5-aec2-9dfb7adbc5a0,محفظه ممتازه,5,Positive,General Positive Sentiment,2026-06
+806cc847-f314-4ffd-aa4b-0bcaec843409,من اجمل واسهل تعامل فعلا جميله جدا جدا,5,Positive,General Positive Sentiment,2026-06
+2ccf1be4-eb60-4715-a230-4b75bec0c261,تم تحديث البرنامج في الجهاز اصبح لايدخل السنه الميلاديه بشكل جيد وتعطلت امور البنكيه على هذا الاساس لانه التطبيق لايفتح معي,1,Negative,Login & Registration Issues,2026-06
+bd19c59a-7424-4a0b-ab6e-ffbb2cdebc1b,يوجد مشكله فنيه في التطبيق يظهر لي عند الضغط على استرجاع المبلغ من المدفوعات الحكوميه متوقفه,1,Negative,Financial Complaints & Fees,2026-06
+c2c59742-aaf4-43ed-a9d8-d10b4ddf1045,مش راضي يشتغل معي مدري ليش,1,Negative,Other / Unclassified,2026-06
+331605e0-298a-47a4-98f5-1568825cb0c2,عملي وناجح,5,Positive,Other / Unclassified,2026-06
+4193316b-36e5-4933-9f39-2564d0f3514f,سعر صرف جيد,5,Positive,Other / Unclassified,2026-06
+9df2f15a-c4d0-41d3-a2e2-4baa68f7a7b9,الله يعزurpay,1,Positive,Other / Unclassified,2026-06
+c7b1495f-f2e0-4859-9ae4-90f48ae2cd12,رائع جدا الاستجابه سريعه ممتاز,5,Positive,General Positive Sentiment,2026-06
+a8b6df3e-70ac-4ce1-93b3-0d1f7fa8ee8e,خد اضافه الاموال كل شويه تزودوه,1,Negative,Other / Unclassified,2026-06
+18decbf0-820e-42a5-98b4-fd8b1f600c74,غير امن,1,Negative,Other / Unclassified,2026-06
+dbf126b9-0fa6-4927-8257-561d5fd0c987,مع التحديث الاخير هناك مشكله لتطبيق يرفض يعمل خروج الله يحفظكم,2,Negative,Login & Registration Issues,2026-06
+3605a1d1-538a-4749-a2a4-20a15b56558f,سهل ومريح خدمه ممتازه جد,5,Positive,General Positive Sentiment,2026-06
+a5dabec5-789e-4376-ad6f-ee83bebcb505,تطبيق رائع وسريع في التحويل,5,Positive,General Positive Sentiment,2026-06
+1ccebcdb-6dbb-4345-aec3-c7f52c3d414e,خدمات مميزه جدا,5,Positive,Other / Unclassified,2026-06
+c43a0287-7cbe-45eb-877e-636bff8e4807,ممتازولاغبارعليه من افضل البنوك وافضل تعامل,5,Positive,General Positive Sentiment,2026-06
+5918be6b-932d-4ab5-a7b1-eb7c2ead1d03,الصراحه ماعجبني محدوديه السحب ليش السحب مايكون مفتوح,3,Negative,Adding Funds & Limits,2026-06
+9c2ea859-ecf9-43fe-8ff8-b967e3b129f0,لو كانه بطاقه مدى تسحب من جميع الصرافات الاليه يكون ممتاز,4,Neutral,General Positive Sentiment,2026-06
+b44e4f46-f44a-4a60-a902-f93f0859f260,تطبيق ندمت حملته كل شوي ما يدخلني,1,Negative,Other / Unclassified,2026-06
+b34acc1b-c7ab-44da-adb9-518d3316320c,ايش صارت اضافه الاموال ٣٠٠ حد ادنى وش هالتطبيق اللي يتشرط ويزيد في الاموال تقييم سيء,1,Negative,Adding Funds & Limits,2026-06
+4b9f91f3-5e75-4cc3-866f-937ee509871c,التطبيق يعلق وكل يوم اغير رمز الدخول السريع ما ادري ليش دايما يقول خطا الموضوع متكرر ومايدخل الا لمن تدخل نسيت رمز المرور,5,Negative,Login & Registration Issues,2026-06
+74707809-fd2c-449a-97e4-1eb1f178a89d,زاد الحد الادنى لاضافه الاموال ل٣٠٠ ليش؟؟ هذا غير انه بعد تحديثات صار ملا يعلق و واذا جيت باحول لجهات الاتصال لازم اكتب رقم حتى لو مسجلتنه وغير انه في اضافه الاموال يجلط كلا فشلت العمليه,1,Negative,Login & Registration Issues,2026-06
+30952d0d-b005-4ce5-8426-dba614f6ab79,الامور طيبه,5,Positive,Other / Unclassified,2026-06
+f76a42e7-1719-4de7-983a-549722f3c2bf,اجمل تطبيق وسهل الاستخدام,5,Positive,Other / Unclassified,2026-06
+af7c4cc6-13f1-44b0-aa0b-c2f6b3aa9b4a,صاير اسوء تطبيق خلكم على يورباي اريح لكم من هذا كل يوم معلق,1,Negative,Other / Unclassified,2026-06
+78c08bbe-6ace-4b7b-bd6b-90492c9d152b,رائع لاكن موراصس يتحمل لين ما يصير تحديث جديد,5,Negative,Login & Registration Issues,2026-06
+3a26019d-603d-42e7-aee8-473bcdcc7456,ماشاء الله تبارك الله,5,Positive,Other / Unclassified,2026-06
+59fdf91c-0f95-4039-8e0f-03c9f6ff3ff9,خايس ايش تفرض عليه اضافه اموال حد ادنى وخرابيط مالها سنع كلام فاضي,1,Negative,Adding Funds & Limits,2026-06
+78640463-80e8-455e-9d68-ae0687aa995a,شكرا استي سي,5,Positive,General Positive Sentiment,2026-06
+f5da5a28-f9a4-4586-86c2-88e81960c146,في مشكله كل ماانشئ حساب يقلي في مشكله تقنيه ياليت تنحل المشكله,1,Negative,Other / Unclassified,2026-06
+b6bb414e-1366-4ec5-9f78-08496c19ebd3,تطبيق سيئ جدا جدا اسبوع ولم استطع تسجيل الدخول,1,Negative,Login & Registration Issues,2026-06
+39bb1923-8b2f-486f-8a56-c850f645a8fe,لماذا لا يعمل التطبيق في اليمن,1,Negative,Other / Unclassified,2026-06
+4f116d11-8e89-4d07-96d4-24aa566c6715,بنك اس تي سي ثقه ومعامله طيبه,5,Positive,Other / Unclassified,2026-06
+02aeaf5d-6457-47e8-9a00-200d9a548547,حواله دوليه تحت المراجعه يومين قمه التخلف,1,Negative,Financial Complaints & Fees,2026-06
+0bf78b34-5bd5-40e5-a0c3-490fc85a0af3,خدمه العملاء سيئه جدا ولا يوجد رقم للتواصل,1,Negative,Login & Registration Issues,2026-06
+f36f9375-2c9f-4cc4-9802-394deca6439e,تطبيق سيء جدا مشاكله كثيره حسبي الله ونعم الوكيل,1,Negative,Financial Complaints & Fees,2026-06
+2aa69260-740d-43a0-bb17-fc6d07441b7d,رئع,5,Positive,Other / Unclassified,2026-06
+4b7797a4-7ea2-4216-a932-ae2c5b19a3a3,ميه ميه,5,Positive,Other / Unclassified,2026-06
+5b055c36-b6fb-4d6c-b626-b1ed665d5e53,برنامج حلو لاستخدام,5,Positive,Other / Unclassified,2026-06
+5841b574-c37f-4130-9696-73eed232b839,يطي,1,Neutral,Other / Unclassified,2026-06
+9f2fe789-9513-47b7-986d-4c2453da4ff6,ممتاز جدا والتحديث دائما في تطور مستمر نشكر القائمين عليه,5,Positive,Login & Registration Issues,2026-06
+8c18ac14-9f5e-4c0c-ab59-2853fefcab55,سريع,5,Positive,Other / Unclassified,2026-06
+62c67ca9-372a-4ea5-a7de-e60df74a4293,منتجات شركه الاتصالات السعوديه تقنيه متميز ه الخدمات الالكترونيه متميزه وسهله الانتر نت قويه من تشرب في كل مكان في تقنيه المعلومات جدا ممتازه سريعي تحميل تطبيقات في يستحق العجب فيه مفيده,5,Positive,General Positive Sentiment,2026-06
+581e674c-6a82-401a-bc16-8dd915324342,سهل الاستخدام تطبيق فوق الممتاز,5,Positive,General Positive Sentiment,2026-06
+76bd3fb6-7c70-4f46-a98a-5e0d86446eae,لماذا لم ينزل تحديث من اجل المشاركه في المسابقه لي اجهزه الاندرويد السبب؟,2,Neutral,Login & Registration Issues,2026-06
+da3d13ef-f425-4f43-937a-f419d69f2462,اسوء تطبيق بنكي خصوصا بعد ما صار بنك اس تي سي صار فيه تعقيد، وفوق هذا التطبيق يعلق وما يسجلني,1,Negative,User Experience & Support,2026-06
+2ebf3410-9740-45b9-81dc-b2f757f7261c,سيء جدا لا يمكنني تسجيل الدخول وتم التواصل مع خدمه العملاء وللاسف لا يوجد حل حتي الان,1,Negative,Login & Registration Issues,2026-06
+4bb23917-9be7-4857-a051-343d0549315b,افضل تطبيق بنكي,5,Positive,General Positive Sentiment,2026-06
+e777ad78-f49c-4f97-8831-9176e47d37a3,افضل اختير شكرن لكم,5,Positive,General Positive Sentiment,2026-06
+291b69bd-cec7-4bf1-9012-867db05333ca,perfect,5,Positive,Other / Unclassified,2026-06
+b8ffe27b-6044-4133-9859-b1aba7748dad,برنامج سهل وممتاز جدا,5,Positive,General Positive Sentiment,2026-06
+3a24ead6-1dbf-40b6-9f6b-269fcccdaa34,سريع وجميل,5,Positive,General Positive Sentiment,2026-06
+5d58ccb2-7863-4186-a72a-8147143c8561,جدا ممتاذ,5,Positive,Other / Unclassified,2026-06
+3ec2c133-3d14-4e7d-9c19-e2181f145a15,لماذا لا استطيع فتح حساب اضافي ؟ اتمنى اضافه هذي الميزه,1,Neutral,Other / Unclassified,2026-06
+a0dc10ed-ae37-4a24-b709-34ce07fe7b01,في السابق كانت الفواتير تظهر اما الان فلا,4,Negative,Other / Unclassified,2026-06
+05b0abef-82e9-4e31-bd7b-bf53b5028257,جيدجيدجيدجيدجيدجيدجيدجيدجيدجي جدن,5,Positive,Other / Unclassified,2026-06
+bbfff2c8-22df-49ba-ba3f-94c0f8003e68,مشا الله تطبيق جميل وخدمات حلوه,5,Positive,General Positive Sentiment,2026-06
+059f43f9-56ff-45a3-8839-d9aacaaf203e,ممتاز تحيه لكم,5,Positive,General Positive Sentiment,2026-06
+65a872c4-e60a-4feb-8cee-b38a16fb335b,بعد ما كان اسهل تطبيق صار اكثر تطبيق في العالم تعقيدا اذا نسيت الباسورد احذف التطبيق احسن لك قبل لا يرتفع ضغطك لان بتسوي باسورد جديد وشروط الباسورد الجديد انه ما يكون واحد من الباسوردات القديمه يعني كل مره بتدخل التطبيق لازم تسوي لك باسورد جديد ما يكون نفس القديم وتكتبه على ورقه عشان ما يضيع وبعد لما تغير الباسورد يحتاج يوم كامل عشان تقدر تدخل بالباسورد القديم اللي انت غيرته وقتها انت نسيت الباسورد الجديد وعلى هالمنوال عادي تقعد لك شهرين ثلاثه شهور احذف التطبيق احسن لك ونزل برق,1,Negative,Login & Registration Issues,2026-06
+1eb39ca0-c897-4d53-9f00-a3a041584a92,ماشاء الله تبارك الله ممتاز جدا جدا جدا,5,Positive,General Positive Sentiment,2026-06
+3e1b1c78-baac-4077-a42e-d55c2726e5c5,حلو مرره,5,Positive,Other / Unclassified,2026-05
+239204fb-a9a9-4c0f-8ce1-2ec9d79b3a8c,اوكيه,5,Neutral,Other / Unclassified,2026-05
+9b67b972-60bf-4f17-beaa-4ea4c2625695,وز,5,Neutral,Other / Unclassified,2026-05
+3c0b3598-05a4-4472-aeeb-88c781c52aeb,Thank,5,Positive,Other / Unclassified,2026-05
+dfff9939-90ad-428b-af2c-d95804e1f420,عشان لون الابيض م اشوف الكتابه زين داخل التطبيق,1,Negative,Other / Unclassified,2026-05
+c5af00ff-0a6f-4ac0-a531-837abbb64a53,عند تغيير رقم جوالي الجديد التطبيق لا يفتح,1,Negative,Login & Registration Issues,2026-05
+a06e9eff-8802-4eeb-adfb-8bfd48380d29,نفسي افهم انتوا كيف ما قادرين تحلوا المشاكل التقنيه اللي بالتطبيق وش تسوون يعني وموظفينكم ايش شغلتهم بالظبط ازاي عندي حساب ما اقدر ادخل عليه وعندي فلوس بحسابي ومو قادر استغلها ولا احولها لنفسي ولا اعمل اي شئ لو في اقل من نجمه عطيتكم حسبي الله عليكم,1,Negative,Other / Unclassified,2026-05
+146e07c8-dfa7-4558-a988-c6d9ca002dcf,خدمات سهله جدا,5,Positive,Other / Unclassified,2026-05
+7cae82e4-0bd2-418e-83d6-b4f4054a3d18,احلا برنامج,5,Positive,Other / Unclassified,2026-05
+be307159-e70e-4e78-8c08-e986bbc63dde,بنك سئ محسسك انه بنك عالمي تغير الباسوورد عده مرات الى تنسى اللي حطيته نفس تجربه خالد العوفي,1,Negative,Other / Unclassified,2026-05
+fb6e981b-df95-4538-9dc6-622ace521372,التطبيق مو راضي يشتغل عندي طلبوا مني تحديث معلومات العميل وحدثتها كتبولي تم التحديث بنجاح بس برضو مو راضي يشتغل معي التطبيق,2,Negative,Login & Registration Issues,2026-05
+7f41a4f3-d456-4b82-bfb2-7247f40af6c4,وصلت,5,Neutral,Other / Unclassified,2026-05
+5072d3a3-8e3a-42ae-a4f9-0112ea1a9e18,ممتاز وشكرا,3,Positive,General Positive Sentiment,2026-05
+73b461ea-0758-4a45-b73e-41efba2ac592,ممتاز بنك بطل,5,Positive,General Positive Sentiment,2026-05
+3c9dfa6d-9913-4b35-862d-41910c411673,حاطين منع تصوير الشاشه بكل مكان الحين لو اريد احول للحساب من بنك ثاني كيف اسوي اجيب معي فريق تصوير خاص اصور الباركود ع الاقل سوا زر مشاركه للباركود لو مانعين التقاط الشاشه نص نجمه,1,Negative,Other / Unclassified,2026-05
+56cbac36-5365-4947-a35a-49c76467f6c4,تطبيق عملي وسهل,5,Positive,Other / Unclassified,2026-05
+c29e1cca-9035-467d-a49f-f628f9bd47fa,شكرا سهل جدا,5,Positive,General Positive Sentiment,2026-05
+5003e8b3-e599-40c8-80a3-0c1649944b89,استخدمه سهل جدان ورائع,5,Positive,General Positive Sentiment,2026-05
+dd53a96e-1c63-48cc-b17e-3a4ad8cbedb9,سهل الاستخدام سرعه في الرد نسبه ربح للاستثمار منافسه,5,Positive,Other / Unclassified,2026-05
+7dc2958a-6320-47c0-9c2d-6ce90b3b962a,انتبهوا شهرين اريد استرجع فلوسي ولا يمكنني تسجيل الدخول,1,Negative,Login & Registration Issues,2026-05
+0f94936b-f828-4c1e-9912-6930fbca2f07,رائع وجميل,5,Positive,General Positive Sentiment,2026-05
+30b05695-a26c-40a2-96be-fb308e3f1ff4,اطلق حساب بنك استخدمته,5,Positive,Other / Unclassified,2026-05
+c0ebb66b-e1eb-448b-b2dd-a8bb1a80aa60,كففو,5,Positive,Other / Unclassified,2026-05
+1ef3496e-3dc6-4562-81d2-a47014bd079a,برنامج سئ جدا,5,Negative,Other / Unclassified,2026-05
+78300967-4078-4dd8-a357-81025c851943,ليش لازم يوصل للموقع وعلى طول,1,Negative,Other / Unclassified,2026-05
+a9fd7738-fd63-4349-b378-c4ff1cbbda45,البرنامج يعلق مايفتح,1,Negative,User Experience & Support,2026-05
+8215d828-2d52-4f71-b38a-e5f47017c767,للاسف الشديد لم استطع فتح التطبيق بسبب مصادره الشركه لرقم الجوال الخاص بي المسجل في البنك وللاسف الشديد لم يتم وضع خدمه الدعم اول الشاشه قبل فتح التطبيق خدمه الدعم متوفره داخل التطبيق نفسه وللاسف لم نتمكن من استخدام التطبيق,1,Negative,Login & Registration Issues,2026-05
+a2044229-4ac8-4ecc-9cec-b277cbb72d42,دا ىما الافضل,5,Positive,General Positive Sentiment,2026-05
+4286cb4f-247a-4813-8ad1-b095c1e0e55d,رائع بس يحتاج اضافه خدمات واعتماد اكثر لمنصات مختلفه,5,Positive,General Positive Sentiment,2026-05
+ba62a7a4-6b28-4d53-88cb-dcc8a47ab4c8,سهل وسريع جدا,5,Positive,Other / Unclassified,2026-05
+8249fe5b-8a23-4bb6-bda5-0957abcf0266,الخدمه ممتازه جدا بارك الله فيكم وجزاكم الله خير الجزاء,5,Positive,General Positive Sentiment,2026-05
+a1fdb2c1-3cfe-4f38-8fa7-d562ed307ab4,افضل بنك في السعوديه ينك اس تي سي اسرع تحويل اتمنى لكم التوفيق والنجاح الدائم,5,Positive,General Positive Sentiment,2026-05
+d76a5f9c-af6e-4b0a-ae26-d91ea9b5e55e,ممتازه ج,5,Positive,General Positive Sentiment,2026-05
+499c8231-465a-4ed8-8b63-fc08ca9745ee,تطبيق ممتاز وسهل استخدام وسريع التحويل,5,Positive,General Positive Sentiment,2026-05
+f68d9dca-7791-4e3d-b2c2-473fe1939531,سهل وسريع ما شاء الله الله يعطيكم العافيه,5,Positive,User Experience & Support,2026-05
+ff8e75b4-524d-4f08-b763-e40a09ae1b20,حد عمليات التحويل 10 فيه زياده ومبالغه,1,Negative,User Experience & Support,2026-05
+b6a9e0cf-79ff-4847-813a-4a78d0ac853d,التطبيق جدا ممتاز وسهل وسريع التقنيه,5,Positive,General Positive Sentiment,2026-05
+63e1a1e7-014f-46b2-8bb4-b967fccf3248,ممتاز جداء,5,Positive,General Positive Sentiment,2026-05
+e7572e4f-f753-499a-984a-6af5efa43d97,١٠٠,5,Positive,Other / Unclassified,2026-05
+574c355b-7e7c-43e1-93a3-149031523b88,شكرا لكم لجهودكم دمتم بخير,5,Positive,General Positive Sentiment,2026-05
+89e6c639-d9a4-4fa7-81c7-d3178c272753,جيدجدا مره ممتاز,5,Positive,General Positive Sentiment,2026-05
+c37a7b61-232e-44f3-bae8-76d40c7f2cea,تطبيق حلو مره,5,Positive,Other / Unclassified,2026-05
+1a503cb1-1d54-46d1-86e7-7817dedc4de3,اغبى بنك يلزمني اضيف الف ريال ليه ياغبي تلمزني باضافه مبلغ ما احتاجه,1,Negative,Financial Complaints & Fees,2026-05
+081ad004-904f-4aed-be06-3ab0305e207e,خدمه سيئه جدا خدمه العملاء كلهم سيئين مافي اي تجاوب منهم للعميل والله النجمه كثير عليهم,1,Negative,Other / Unclassified,2026-05
+f1256124-b9b7-4c1b-b5c8-835dd45ec26a,حلو جدن,5,Positive,Other / Unclassified,2026-05
+75ae9f50-70bf-4787-be63-86ea3466e5a2,انصح به وبالله التوفيق,5,Positive,Other / Unclassified,2026-05
+8175bec3-51cb-4d62-a8ce-edbd5e5b9ee7,رايع ممتاز جدا جدا,5,Positive,General Positive Sentiment,2026-05
+ab404e87-23aa-44de-b7b4-731ae89ef645,خدمه عملاء سيء جدا جدا جدا و تطبيق فاشل و الامان شبه معدوم وصلني اشعار على التطبيق بعمليه شراء من باي بال بدون كود تحقق و انا لم اقم بها و ابلغ خدمه العملاء برفع اعتراض يقول بعد 45 يوم و افادني بان العمليه معلقه و في التطبيق مقبوله و رفض فتح اعتراض و انا اصلا ما عندي حساب باي بال و جاري الغاء الحساب بعد النظر في الشكوى المقدمه في البنك المركزي و حل المشكله,1,Negative,Financial Complaints & Fees,2026-05
+ea953f83-34b5-4a85-b27d-449de7dd0a2c,يا جماعه الخير، احد يفهمني هالمنطق الاعوج شخص حول لي مبلغ على رقمي، وانا اصلا ما عندي حساب عندكم والحين يوم جيت بفتح حساب عشان استلم حلالي، تقولون لي هويتك غير مؤهله ؟ طيب ما دمت انا غير مؤهل، كيف قبلتوا الفلوس تنزل في نظامكم من الاساس؟ يعني الاستلام حلال والمطالبه حرام تواصلت معكم وكنت انتظر حل، لكن للاسف الرد كان يغبن ويحسسني ان مالي حق عندكم عموما، اذا قوانينكم خذلتني، فحقوق الناس ما تضيع والوعد عند الله، وعند الله تجتمع الخصوم حسبنا الله ونعم الوكيل,1,Negative,Login & Registration Issues,2026-05
+ba37666d-ca43-4abb-b457-440c2951c14a,التطبيق معلق مايفتح ماهي المشكله,1,Negative,User Experience & Support,2026-05
+a9eea2e6-361e-42d2-a6aa-39229d14f2b3,ممتاز وخدمات روعه,5,Positive,General Positive Sentiment,2026-05
+92ea2d0e-b171-42ee-8b40-9c8c2a690b4a,صار اضافه الاموال 10 ريال اول كانت 100 المفروض يخلون اضافه اموال متاح اي مبلغ وهذا سيطر البعض بحدف التطبيق الان برق صار متاح جميع الفئات والناس الان على برق وياريت اس تي سي يرجعون نفسهم لان مبلغ 10 مش بسيطه من وين الواحد يجيبها يعني انا لو بحول لاحد 50 اطر اضيف 10 ه,1,Negative,Adding Funds & Limits,2026-04
+cf69ff4e-8ab0-462a-96c3-67e2f690fdf9,تجربيه مريحه جدا,5,Positive,Other / Unclassified,2026-04
+e67c0555-0691-4fec-97b4-bfa921745371,معي مشكله له شهر كلما اكلمهم يقولون تحت الصيانه هذا غير معقول معي رقمي الاول انفصل واريد تغير رقمي,1,Negative,Login & Registration Issues,2026-04
+207ce291-6d6d-474b-b667-3c46b6cf0991,الله يوفقك,5,Positive,Other / Unclassified,2026-04
+af10c532-2a61-4a54-8594-94874073c56d,كان ممتاز جدا واصبح سيئ,1,Negative,General Positive Sentiment,2026-04
+453b7373-ae1b-454f-bbde-03513a99eaec,سيء جدا اسوء بنك فيك ياسعوديه فلوسك وتحقيق وتاخير حسابك اذا توقف بعد ١٥يوم ثم يفتحون حسابك وبه مايفتحون تعامل موظفيهم سيء ومشرفهم سحبه يسحب عليك,1,Negative,User Experience & Support,2026-04
+36b5325f-091a-4472-b64d-c35020da5da3,اسهل تطبيق في العالم,5,Positive,Other / Unclassified,2026-04
+ab0557ab-1cb9-4c8b-8755-6b8cd67aa4a8,اسهل معامله سريعه خدماتهم,5,Positive,Other / Unclassified,2026-04
+2aa6c9f4-60e4-4dc0-9613-bdfc4e1324f8,حسبي الله عليكم ليش مايفتح التطبيق مثل باقي التطبيقات الله يشغلكم,1,Negative,User Experience & Support,2026-04
+fa72133c-f22f-4bae-a53e-28848ec074d9,جميا,5,Positive,Other / Unclassified,2026-04
+7438c605-7238-476d-8998-cab95b1d06fa,الاول كان كويس بعد كده حبيت اغير رقم جوالي يرفض واكلم الدعم يقولي دي مشكله وبنحلها ليا اكثر من شهرين علي نفس المشكله ولا تنحل,1,Negative,Login & Registration Issues,2026-04
+4aeebf54-6ac5-4310-873c-4467fa4cbac4,التطبيق مايدخلني وتواصلت معاكم قلتو عطينا صوره من رفض التطبيق لدخولي والتطبيق لايسمح بتصوير الشاشه,1,Negative,Login & Registration Issues,2026-04
+98f274e0-2b29-418c-a7c2-6e6c94838b63,البنك رائع ولاكن التطبيق ضعيف الامكانيات بشكل كبير لايشبه تطبيق اي بنك اخر وخيارت السحب صعبه,2,Negative,General Positive Sentiment,2026-04
+f7274cd5-1ee5-469c-9f23-7c9f0c2290d1,بطاقه استطع طباعه,3,Neutral,Other / Unclassified,2026-04
+0492ca62-e515-42fd-8052-9acbe84ee697,مزهل,5,Positive,Other / Unclassified,2026-04
+e8a67cae-d615-4648-a0ed-8628ef89f98f,يخذون ضريبه حقات التحويل ليه ماادري,2,Negative,Other / Unclassified,2026-04
+9591e236-8c62-445a-baf6-348b3ae04366,كل التوفيق والاداء المتميز,5,Positive,Other / Unclassified,2026-04
+a338a547-976e-4e17-b6e7-10fe57fa9468,An excellent program that deserves attention,5,Positive,Other / Unclassified,2026-04
+604d271e-02a0-41a4-89d3-5bcbb5475aee,سريع وانجاز ف تعامل,5,Positive,Other / Unclassified,2026-04
+fa3a95ea-78ab-44bd-ae32-402b998799bb,شكرا لكم جميعا stc,5,Positive,General Positive Sentiment,2026-04
+e1d64be4-06e2-4065-a6da-29414bfceb4a,اسرع بنك,5,Positive,Other / Unclassified,2026-04
+97ce08c1-5c29-4d7c-a2b8-040393f156cb,الله يقلعكم,1,Negative,Other / Unclassified,2026-04
+b6a59d7b-2274-484c-86c5-1e914cef22c3,من افضل التطبيقات,5,Positive,General Positive Sentiment,2026-04
+e1d509d2-1aaa-4be7-a086-1d8cd65c0611,سهل للتحويل,5,Positive,Other / Unclassified,2026-04
+315eb6eb-9ffa-4228-8927-e022abe8ab53,احلي تطبيق عرفته سهل الاستخدام انصح بستخدامه,5,Positive,Other / Unclassified,2026-04
+33b3fec2-1d21-437d-8e99-64273b2f36c2,جميل واستخدام سهل,5,Positive,General Positive Sentiment,2026-04
+9256d2cb-bc81-428e-9157-89aa322b8ab6,اخيس برنامج,1,Negative,Other / Unclassified,2026-04
+3a6ec23f-7d88-4ddf-bf3c-5eb70f0416a5,تطبيق غني عن التعريف ولديه تحديثات وتطويرات مستمره بدون توقف ونص الشعب تعتمد عليه,5,Positive,Login & Registration Issues,2026-04
+c9e8eca2-0586-465f-bb93-4ec0b3094e70,عندي لكم اقتراح انكم تسو جوايز مثل عجله حظ او اي شيء,5,Neutral,Other / Unclassified,2026-04
+f3fb6372-2df8-43f2-bcca-8b3875e29342,التطبيق ما اقدر احول منه او احدث معلوماتي يظهر لي حاله حسابك غير صالح لاتمام هذا االعمليه ارجوا مساعدتي في حل المشكله,5,Negative,Adding Funds & Limits,2026-04
+64d3e5ae-acde-4216-9e94-37ea01acd06f,ماذا شاء الله تبارك الله خدمه ممتازه,5,Positive,General Positive Sentiment,2026-04
+e2a04517-c7b0-4d4b-8c08-a118f20a20d2,خدمات جميله و سريعه شكرا بنك اس تي سي,5,Positive,General Positive Sentiment,2026-04
+722d5f09-fc38-43b5-951c-656ac2a3a8ee,احلى تطبيق وتعامل وسلاسله بين كل البنوك,5,Positive,Other / Unclassified,2026-04
+7ccc300a-b965-4bb0-8260-66e8fb00e950,تطبيق راقي جدا,5,Positive,Other / Unclassified,2026-10
+cc5dfb63-3007-496c-bc54-67b727a40bc2,تطبيق ممتاز انصح بالتعامل,5,Positive,General Positive Sentiment,2026-10
+be910962-d9df-4278-93c4-1f2f2812e293,تجربه جيده جدا جدا,5,Positive,Other / Unclassified,2026-10
+8097ceb4-a054-4c3a-b8a3-cf2a33abe751,تطور هائل في الخدمه هناك مشكله بعد التطوير و هي رفع الحد الادنى للمبلغ عند اضافه الاموال صحيح بيوفر رقم الايبان للتحويل من البنوك الاخرى لكن الاول افضل ان تتم اضافه من داخل التطبيق عن طريق البطاقه البكيه و كان الحد ١٠٠ ريال,4,Neutral,Login & Registration Issues,2026-10
+85aa59ae-cb3c-4e91-a5d4-0acc8594649a,مميزه,5,Positive,Other / Unclassified,2026-10
+7384e23a-aecb-4f09-a09a-d693f1db5f5e,فرض احد ادنى للايداع ٣٠٠,1,Negative,Adding Funds & Limits,2026-10
+606a7c02-cca0-4944-a942-7fc94ab22110,مايسرد السداد,5,Negative,Other / Unclassified,2026-10
+6866daf9-0d2e-415a-8e39-e7094dc91951,سلس وسهل,5,Positive,Other / Unclassified,2026-10
+55067b51-437b-4c25-b858-00cf0b2941b2,غير جيد في اضافه الاموال لازم ٣٠٠,1,Negative,Adding Funds & Limits,2026-10
+0e613616-192e-48bc-9b9c-34d9354612b6,جميل جدا ومتكامل,5,Positive,General Positive Sentiment,2026-10
+bd3b1512-99d7-4d6e-b9a3-f53a703c814f,لو في اقل من نجمه كان اعطيتكم هي زرفتوا المبلغ اللي كان في حسابي stc pay ورفضتم ترجعوه سم في بطنكم باذن الله,1,Negative,Financial Complaints & Fees,2026-10
+8157c28c-d71e-4842-aaa0-9fcebe8f5632,غيرو الشحن يكون ١٠٠ ريال,1,Neutral,Adding Funds & Limits,2026-10
+2d4eb781-83b0-48b4-9082-f211807843ab,الزاميه ايداع 300 غير مقبول,1,Negative,Adding Funds & Limits,2026-10
+9ffe5522-ea55-414b-bc51-b92cfede610e,عندي مشكله التطبيق يعطيني الخدمه غير متوفره الان رغم قبلها بثواني كنت فاتح التطبيق ومنتظر الدعم يرد عليا وبعدها قفل,1,Negative,User Experience & Support,2026-10
+0a5e2ef0-5c8b-4693-bb15-4c9b355a71de,التطبيق جميل لاكن معقد,4,Neutral,General Positive Sentiment,2026-10
+33adf9a3-f31f-4f5d-b326-bd50db4cc6bd,التحويل يتطلب ٣٠٠ ريال واعلى بعكس كافه البنوك,1,Negative,Adding Funds & Limits,2026-10
+97fba174-121d-46fb-ae0d-3e036d9734b4,لا يدعم محفظه جوجل,1,Negative,User Experience & Support,2026-09
+1423f732-c58c-40b6-931b-2c088f9ee374,تطبيق سيء يحجب مبلغ مستحق ولي اكثر من ثلاث شهور ارفع مستندات ويجيني رساله مشكله فنيه,1,Negative,Financial Complaints & Fees,2026-09
+6e94d3ed-0781-40f1-bb85-45da209789e9,استخدام سيى,2,Negative,Other / Unclassified,2026-09
+aa767682-c9ba-472d-9396-55c96518c9da,تاخر في الرد على العملاء في الدعم,1,Negative,User Experience & Support,2026-09
+527c053d-77c1-456d-a21d-3fd9e0cdbbc2,خدمه سريعه وجيده,5,Positive,Other / Unclassified,2026-09
+2ddba6f0-8c34-4afd-b7c3-fe1d933c913a,ممتاز لاكن خدمه العملاء اذا قمت بالاتصال بهم لن يردو عليك غير بعد ساعه او ساعتين مافي سرعه في الرد,5,Negative,General Positive Sentiment,2026-09
+203d7e73-0457-40b6-ba25-e09f93e61354,برق صار منافس جيد وهذا لازم يكون ٣٠٠ في محفظتك عشان تضيفها لحسابك,2,Neutral,Adding Funds & Limits,2026-09
+fc393da9-9498-4618-a4f8-0a6ab6b6135d,خدمه سريعه,5,Positive,Other / Unclassified,2026-09
+667e57c8-d0cb-4e6d-8172-b2d71bd763f9,تطبيق ممتاز جدا فى التحويلات المحلى والدولى,5,Positive,General Positive Sentiment,2026-09
+01297381-0b91-407a-8930-5d29124606de,ممتاز روعه,5,Positive,General Positive Sentiment,2026-09
+f57de590-f528-4d2b-a07f-a89a4157a44b,يليبي جميع احتياجاتك,5,Positive,Other / Unclassified,2026-09
+9dab620d-5624-4763-ba52-3eb016d4e03b,تطبيق امن ومحترم,5,Positive,Other / Unclassified,2026-09
+ec5417cf-9a5b-4e63-8598-020a5183db2a,لماذا اجي افتح حسابي ويطلب مني فتح حساب جديد,5,Negative,Other / Unclassified,2026-09
+23136cd4-e468-4d3a-b973-7f9ee36af1cc,ممتاز وسهل شكرا جزيلا على العمل الرئع,5,Positive,General Positive Sentiment,2026-09
+553d2c4e-4eb2-4f69-8ee4-dd2dbcf58278,بنك رائع,2,Positive,General Positive Sentiment,2026-09
+15898ff6-b886-404b-af63-a42273842b26,مره تعبت مع التطبيق كل مادخل يقلي رقم السرى غلط ويوقف حسابي ٢٤ساعه عمليات الدخول عليه جدا متعبه والبطاقه جديده حاسبت كم مره بيها وماعاد تحاسب يقلي البطاقه خربانه وانا احول عليها ايش اسوي,1,Negative,Login & Registration Issues,2026-09
+b910a0a7-5978-4a40-963b-8247a4343363,شكرا على السرعه فى التحويل,5,Positive,General Positive Sentiment,2026-09
+82c184df-4463-4e54-b88e-b96c6d3d4d63,خدمه وكفائه,5,Positive,Other / Unclassified,2026-09
+923fa218-1906-4212-a62d-65f908d9e978,برنامج استخدامه له,5,Neutral,Other / Unclassified,2026-09
+3d10d037-51ea-49fe-865e-fc39571e9eed,الف الف شكر,5,Positive,Other / Unclassified,2026-09
